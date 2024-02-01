@@ -229,3 +229,6 @@
 [submodule "github.com/vbehar/daggerverse/artifactory"]
 	path = github.com/vbehar/daggerverse/artifactory
 	url = https://github.com/vbehar/daggerverse
+[submodule "github.com/vbehar/daggerverse/jfrogcli"]
+	path = github.com/vbehar/daggerverse/jfrogcli
+	url = https://github.com/vbehar/daggerverse

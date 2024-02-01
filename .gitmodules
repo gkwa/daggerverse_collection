@@ -79,3 +79,6 @@
 [submodule "github.com/tsirysndr/daggerverse/kubeval"]
 	path = github.com/tsirysndr/daggerverse/kubeval
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/jsonlint"]
+	path = github.com/tsirysndr/daggerverse/jsonlint
+	url = https://github.com/tsirysndr/daggerverse

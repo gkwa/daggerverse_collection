@@ -112,3 +112,6 @@
 [submodule "github.com/tsirysndr/daggerverse/ansible"]
 	path = github.com/tsirysndr/daggerverse/ansible
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/ansible-lint"]
+	path = github.com/tsirysndr/daggerverse/ansible-lint
+	url = https://github.com/tsirysndr/daggerverse

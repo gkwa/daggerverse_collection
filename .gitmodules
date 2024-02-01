@@ -286,3 +286,6 @@
 [submodule "github.com/fluent-ci-templates/grype-pipeline"]
 	path = github.com/fluent-ci-templates/grype-pipeline
 	url = https://github.com/fluent-ci-templates/grype-pipeline
+[submodule "github.com/fluent-ci-templates/buf-pipeline"]
+	path = github.com/fluent-ci-templates/buf-pipeline
+	url = https://github.com/fluent-ci-templates/buf-pipeline

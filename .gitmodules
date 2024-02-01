@@ -76,3 +76,6 @@
 [submodule "github.com/tsirysndr/daggerverse/nix"]
 	path = github.com/tsirysndr/daggerverse/nix
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/kubeval"]
+	path = github.com/tsirysndr/daggerverse/kubeval
+	url = https://github.com/tsirysndr/daggerverse

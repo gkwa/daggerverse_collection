@@ -1,4 +1,5 @@
-dagger modules from https://daggerverse.dev
+dagger modules from https://daggerverse.dev in single git repo for
+purpose of learning dagger modules.
 
 With this I can see lots of examples at once in order to learn dagger
 modules.

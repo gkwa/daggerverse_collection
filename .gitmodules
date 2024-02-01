@@ -367,3 +367,6 @@
 [submodule "github.com/quartz-technology/daggerverse/minio"]
 	path = github.com/quartz-technology/daggerverse/minio
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/shykes/daggerverse/slim"]
+	path = github.com/shykes/daggerverse/slim
+	url = https://github.com/shykes/daggerverse

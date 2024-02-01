@@ -412,3 +412,6 @@
 [submodule "github.com/jedevc/daggerverse/hugo/github"]
 	path = github.com/jedevc/daggerverse/hugo/github
 	url = https://github.com/jedevc/daggerverse
+[submodule "github.com/quartz-technology/daggerverse/golangci-lint"]
+	path = github.com/quartz-technology/daggerverse/golangci-lint
+	url = https://github.com/quartz-technology/daggerverse

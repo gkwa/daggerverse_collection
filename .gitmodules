@@ -40,3 +40,6 @@
 [submodule "github.com/fluent-ci-templates/spin-pipeline"]
 	path = github.com/fluent-ci-templates/spin-pipeline
 	url = https://github.com/fluent-ci-templates/spin-pipeline
+[submodule "github.com/tsirysndr/daggerverse/wiremock"]
+	path = github.com/tsirysndr/daggerverse/wiremock
+	url = https://github.com/tsirysndr/daggerverse

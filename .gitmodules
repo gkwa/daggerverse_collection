@@ -67,3 +67,6 @@
 [submodule "github.com/tsirysndr/daggerverse/phpcbf"]
 	path = github.com/tsirysndr/daggerverse/phpcbf
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/php-cs-fixer"]
+	path = github.com/tsirysndr/daggerverse/php-cs-fixer
+	url = https://github.com/tsirysndr/daggerverse

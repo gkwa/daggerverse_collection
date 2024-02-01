@@ -274,3 +274,6 @@
 [submodule "github.com/shykes/daggerverse/hello"]
 	path = github.com/shykes/daggerverse/hello
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/fluent-ci-templates/flutter-pipeline"]
+	path = github.com/fluent-ci-templates/flutter-pipeline
+	url = https://github.com/fluent-ci-templates/flutter-pipeline

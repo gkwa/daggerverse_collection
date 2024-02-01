@@ -238,3 +238,6 @@
 [submodule "github.com/marcosnils/daggerverse/docker"]
 	path = github.com/marcosnils/daggerverse/docker
 	url = https://github.com/marcosnils/daggerverse
+[submodule "github.com/shykes/daggerverse/supergit"]
+	path = github.com/shykes/daggerverse/supergit
+	url = https://github.com/shykes/daggerverse

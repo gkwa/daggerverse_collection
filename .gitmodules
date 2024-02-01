@@ -268,3 +268,6 @@
 [submodule "github.com/depot/daggerverse/depot"]
 	path = github.com/depot/daggerverse/depot
 	url = https://github.com/depot/daggerverse
+[submodule "github.com/vito/daggerverse/go"]
+	path = github.com/vito/daggerverse/go
+	url = https://github.com/vito/daggerverse

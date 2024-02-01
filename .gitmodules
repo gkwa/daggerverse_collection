@@ -58,3 +58,6 @@
 [submodule "github.com/tsirysndr/daggerverse/rtx"]
 	path = github.com/tsirysndr/daggerverse/rtx
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/r2-sync"]
+	path = github.com/tsirysndr/daggerverse/r2-sync
+	url = https://github.com/tsirysndr/daggerverse

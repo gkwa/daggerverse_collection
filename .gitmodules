@@ -253,3 +253,6 @@
 [submodule "github.com/helixml/runner"]
 	path = github.com/helixml/runner
 	url = https://github.com/helixml/runner
+[submodule "github.com/quartz-technology/daggerverse/node/go"]
+	path = github.com/quartz-technology/daggerverse/node/go
+	url = https://github.com/quartz-technology/daggerverse

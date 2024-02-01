@@ -493,3 +493,6 @@
 [submodule "github.com/dagger/dagger/sdk/python/runtime"]
 	path = github.com/dagger/dagger/sdk/python/runtime
 	url = https://github.com/dagger/dagger
+[submodule "github.com/kpenfound/dagger-modules/golang"]
+	path = github.com/kpenfound/dagger-modules/golang
+	url = https://github.com/kpenfound/dagger-modules

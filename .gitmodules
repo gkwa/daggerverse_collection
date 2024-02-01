@@ -508,3 +508,6 @@
 [submodule "github.com/aweris/daggerverse/helm"]
 	path = github.com/aweris/daggerverse/helm
 	url = https://github.com/aweris/daggerverse
+[submodule "github.com/aweris/daggerverse/kubectl"]
+	path = github.com/aweris/daggerverse/kubectl
+	url = https://github.com/aweris/daggerverse

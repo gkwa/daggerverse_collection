@@ -343,3 +343,6 @@
 [submodule "github.com/matipan/daggerverse/pulumi"]
 	path = github.com/matipan/daggerverse/pulumi
 	url = https://github.com/matipan/daggerverse
+[submodule "github.com/aweris/gale/daggerverse/actions/runtime"]
+	path = github.com/aweris/gale/daggerverse/actions/runtime
+	url = https://github.com/aweris/gale

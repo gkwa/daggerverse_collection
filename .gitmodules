@@ -526,3 +526,6 @@
 [submodule "github.com/aweris/daggerverse/gh"]
 	path = github.com/aweris/daggerverse/gh
 	url = https://github.com/aweris/daggerverse
+[submodule "github.com/shykes/dagger/zenith/vito-mod"]
+	path = github.com/shykes/dagger/zenith/vito-mod
+	url = https://github.com/shykes/dagger

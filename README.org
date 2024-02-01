@@ -1,8 +1,20 @@
-dagger modules from https://daggerverse.dev in single git repo for
-purpose of learning dagger modules.
+* daggerverse_collection
 
-With this I can see lots of examples at once in order to learn dagger
-modules.
+** summary
+
+dagger modules from https://daggerverse.dev in single git repo as
+submodules for purpose of learning dagger modules.
+
+With this I can see lots of examples at once.
+
+** usage
+
+#+begin_example
+git clone https://github.com/taylormonacelli/daggerverse_collection.git
+cd daggerverse_collection
+git submodule update --jobs=4 --init --recursive
+git submodule update --jobs=4 --recursive --remote
+#+end_example
 
 Resources:
 + https://docs.dagger.io/zenith

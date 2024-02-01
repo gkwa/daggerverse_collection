@@ -289,3 +289,6 @@
 [submodule "github.com/fluent-ci-templates/buf-pipeline"]
 	path = github.com/fluent-ci-templates/buf-pipeline
 	url = https://github.com/fluent-ci-templates/buf-pipeline
+[submodule "github.com/fluent-ci-templates/elixir-pipeline"]
+	path = github.com/fluent-ci-templates/elixir-pipeline
+	url = https://github.com/fluent-ci-templates/elixir-pipeline

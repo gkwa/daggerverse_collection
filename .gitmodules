@@ -118,3 +118,6 @@
 [submodule "github.com/tsirysndr/daggerverse/pkgx"]
 	path = github.com/tsirysndr/daggerverse/pkgx
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/fluent-ci-templates/fastlane-pipeline"]
+	path = github.com/fluent-ci-templates/fastlane-pipeline
+	url = https://github.com/fluent-ci-templates/fastlane-pipeline

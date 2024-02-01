@@ -265,3 +265,6 @@
 [submodule "github.com/levlaz/daggerverse/launchdarkly"]
 	path = github.com/levlaz/daggerverse/launchdarkly
 	url = https://github.com/levlaz/daggerverse
+[submodule "github.com/depot/daggerverse/depot"]
+	path = github.com/depot/daggerverse/depot
+	url = https://github.com/depot/daggerverse

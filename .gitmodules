@@ -163,3 +163,6 @@
 [submodule "github.com/sagikazarmark/daggerverse/helm"]
 	path = github.com/sagikazarmark/daggerverse/helm
 	url = https://github.com/sagikazarmark/daggerverse
+[submodule "github.com/sagikazarmark/daggerverse/spectral"]
+	path = github.com/sagikazarmark/daggerverse/spectral
+	url = https://github.com/sagikazarmark/daggerverse

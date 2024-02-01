@@ -313,3 +313,6 @@
 [submodule "github.com/grouville/daggerverse/cargo"]
 	path = github.com/grouville/daggerverse/cargo
 	url = https://github.com/grouville/daggerverse
+[submodule "github.com/vito/daggerverse/docker"]
+	path = github.com/vito/daggerverse/docker
+	url = https://github.com/vito/daggerverse

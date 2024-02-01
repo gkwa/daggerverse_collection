@@ -520,3 +520,6 @@
 [submodule "github.com/kpenfound/dagger-modules/secretsmanager"]
 	path = github.com/kpenfound/dagger-modules/secretsmanager
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/aweris/daggerverse/gale"]
+	path = github.com/aweris/daggerverse/gale
+	url = https://github.com/aweris/daggerverse

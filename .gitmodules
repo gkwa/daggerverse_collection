@@ -187,3 +187,6 @@
 [submodule "github.com/sagikazarmark/daggerverse/bats"]
 	path = github.com/sagikazarmark/daggerverse/bats
 	url = https://github.com/sagikazarmark/daggerverse
+[submodule "github.com/sagikazarmark/daggerverse/archive"]
+	path = github.com/sagikazarmark/daggerverse/archive
+	url = https://github.com/sagikazarmark/daggerverse

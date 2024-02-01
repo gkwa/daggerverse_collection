@@ -5,8 +5,8 @@
 dagger modules from https://daggerverse.dev in single git repo as
 submodules for the purpose of learning dagger modules.
 
-With this I can see lots of examples all at once without so I can
-copy-pasta examples and learn the details later.
+With this I can see lots of examples all at once so I can
+copy-pasta examples...and learn the details later.
 
 ** usage
 

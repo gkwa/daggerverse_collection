@@ -205,3 +205,6 @@
 [submodule "github.com/nicholasjackson/daggerverse/deb"]
 	path = github.com/nicholasjackson/daggerverse/deb
 	url = https://github.com/nicholasjackson/daggerverse
+[submodule "github.com/grouville/daggerverse/rcodesign"]
+	path = github.com/grouville/daggerverse/rcodesign
+	url = https://github.com/grouville/daggerverse

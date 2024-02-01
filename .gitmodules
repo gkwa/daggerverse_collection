@@ -424,3 +424,6 @@
 [submodule "github.com/sipsma/daggerverse/testpublish"]
 	path = github.com/sipsma/daggerverse/testpublish
 	url = https://github.com/sipsma/daggerverse
+[submodule "github.com/shykes/daggerverse/ttlsh"]
+	path = github.com/shykes/daggerverse/ttlsh
+	url = https://github.com/shykes/daggerverse

@@ -433,3 +433,6 @@
 [submodule "github.com/helderco/daggerverse/python"]
 	path = github.com/helderco/daggerverse/python
 	url = https://github.com/helderco/daggerverse
+[submodule "github.com/slumbering/daggerverse/nextjs-build"]
+	path = github.com/slumbering/daggerverse/nextjs-build
+	url = https://github.com/slumbering/daggerverse

@@ -235,3 +235,6 @@
 [submodule "github.com/levlaz/daggerverse/vapor"]
 	path = github.com/levlaz/daggerverse/vapor
 	url = https://github.com/levlaz/daggerverse
+[submodule "github.com/marcosnils/daggerverse/docker"]
+	path = github.com/marcosnils/daggerverse/docker
+	url = https://github.com/marcosnils/daggerverse

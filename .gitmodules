@@ -457,3 +457,6 @@
 [submodule "github.com/aweris/daggerverse/kind"]
 	path = github.com/aweris/daggerverse/kind
 	url = https://github.com/aweris/daggerverse
+[submodule "github.com/kpenfound/dagger-modules/proxy"]
+	path = github.com/kpenfound/dagger-modules/proxy
+	url = https://github.com/kpenfound/dagger-modules

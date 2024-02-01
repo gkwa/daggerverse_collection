@@ -451,3 +451,6 @@
 [submodule "github.com/kpenfound/dagger-modules/encircle"]
 	path = github.com/kpenfound/dagger-modules/encircle
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/jpadams/daggerverse/trivy"]
+	path = github.com/jpadams/daggerverse/trivy
+	url = https://github.com/jpadams/daggerverse

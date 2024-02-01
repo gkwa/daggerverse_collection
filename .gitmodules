@@ -127,3 +127,6 @@
 [submodule "github.com/fluent-ci-templates/chromatic-pipeline"]
 	path = github.com/fluent-ci-templates/chromatic-pipeline
 	url = https://github.com/fluent-ci-templates/chromatic-pipeline
+[submodule "github.com/fluent-ci-templates/github-pipeline"]
+	path = github.com/fluent-ci-templates/github-pipeline
+	url = https://github.com/fluent-ci-templates/github-pipeline

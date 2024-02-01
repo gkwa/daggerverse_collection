@@ -256,3 +256,6 @@
 [submodule "github.com/quartz-technology/daggerverse/node/go"]
 	path = github.com/quartz-technology/daggerverse/node/go
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/quartz-technology/daggerverse/node/typescript"]
+	path = github.com/quartz-technology/daggerverse/node/typescript
+	url = https://github.com/quartz-technology/daggerverse

@@ -400,3 +400,6 @@
 [submodule "github.com/gerhard/daggerverse/flyio"]
 	path = github.com/gerhard/daggerverse/flyio
 	url = https://github.com/gerhard/daggerverse
+[submodule "github.com/marcosnils/daggerverse/videostitch"]
+	path = github.com/marcosnils/daggerverse/videostitch
+	url = https://github.com/marcosnils/daggerverse

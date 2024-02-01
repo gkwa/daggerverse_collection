@@ -334,3 +334,6 @@
 [submodule "github.com/aweris/gale/daggerverse/gha/aquasecurity/trivy-action"]
 	path = github.com/aweris/gale/daggerverse/gha/aquasecurity/trivy-action
 	url = https://github.com/aweris/gale
+[submodule "github.com/wingyplus/daggerverse/compose"]
+	path = github.com/wingyplus/daggerverse/compose
+	url = https://github.com/wingyplus/daggerverse

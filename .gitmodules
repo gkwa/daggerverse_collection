@@ -28,3 +28,6 @@
 [submodule "github.com/fluent-ci-templates/shuttle-pipeline"]
 	path = github.com/fluent-ci-templates/shuttle-pipeline
 	url = https://github.com/fluent-ci-templates/shuttle-pipeline
+[submodule "github.com/fluent-ci-templates/snyk-pipeline"]
+	path = github.com/fluent-ci-templates/snyk-pipeline
+	url = https://github.com/fluent-ci-templates/snyk-pipeline

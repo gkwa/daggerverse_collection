@@ -436,3 +436,6 @@
 [submodule "github.com/slumbering/daggerverse/nextjs-build"]
 	path = github.com/slumbering/daggerverse/nextjs-build
 	url = https://github.com/slumbering/daggerverse
+[submodule "github.com/shykes/daggerverse/wolfi"]
+	path = github.com/shykes/daggerverse/wolfi
+	url = https://github.com/shykes/daggerverse

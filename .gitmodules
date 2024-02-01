@@ -46,3 +46,6 @@
 [submodule "github.com/tsirysndr/daggerverse/yamllint"]
 	path = github.com/tsirysndr/daggerverse/yamllint
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/terraform-docs"]
+	path = github.com/tsirysndr/daggerverse/terraform-docs
+	url = https://github.com/tsirysndr/daggerverse

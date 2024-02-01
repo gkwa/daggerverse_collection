@@ -124,3 +124,6 @@
 [submodule "github.com/fluent-ci-templates/rust-pipeline"]
 	path = github.com/fluent-ci-templates/rust-pipeline
 	url = https://github.com/fluent-ci-templates/rust-pipeline
+[submodule "github.com/fluent-ci-templates/chromatic-pipeline"]
+	path = github.com/fluent-ci-templates/chromatic-pipeline
+	url = https://github.com/fluent-ci-templates/chromatic-pipeline

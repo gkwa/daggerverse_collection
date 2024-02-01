@@ -1,3 +1,4 @@
 Submodules from daggerverse.dev.
 
-With this I can see lots of examples at once in order to learn dagger modules.
+With this I can see lots of examples from https://daggerverse.dev 
+at once in order to learn dagger modules.

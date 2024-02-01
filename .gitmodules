@@ -271,3 +271,6 @@
 [submodule "github.com/vito/daggerverse/go"]
 	path = github.com/vito/daggerverse/go
 	url = https://github.com/vito/daggerverse
+[submodule "github.com/shykes/daggerverse/hello"]
+	path = github.com/shykes/daggerverse/hello
+	url = https://github.com/shykes/daggerverse

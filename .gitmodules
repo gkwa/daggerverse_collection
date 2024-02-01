@@ -472,3 +472,6 @@
 [submodule "github.com/jpadams/daggerverse/drupalTest"]
 	path = github.com/jpadams/daggerverse/drupalTest
 	url = https://github.com/jpadams/daggerverse
+[submodule "github.com/jpadams/daggerverse/mariadb"]
+	path = github.com/jpadams/daggerverse/mariadb
+	url = https://github.com/jpadams/daggerverse

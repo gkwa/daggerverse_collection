@@ -43,3 +43,6 @@
 [submodule "github.com/tsirysndr/daggerverse/wiremock"]
 	path = github.com/tsirysndr/daggerverse/wiremock
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/yamllint"]
+	path = github.com/tsirysndr/daggerverse/yamllint
+	url = https://github.com/tsirysndr/daggerverse

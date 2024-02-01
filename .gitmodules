@@ -55,3 +55,6 @@
 [submodule "github.com/tsirysndr/daggerverse/scorecard"]
 	path = github.com/tsirysndr/daggerverse/scorecard
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/rtx"]
+	path = github.com/tsirysndr/daggerverse/rtx
+	url = https://github.com/tsirysndr/daggerverse

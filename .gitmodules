@@ -4,3 +4,6 @@
 [submodule "github.com/fluent-ci-templates/syft-pipeline"]
 	path = github.com/fluent-ci-templates/syft-pipeline
 	url = https://github.com/fluent-ci-templates/syft-pipeline
+[submodule "github.com/puzzle/dagger-module-helm/helm"]
+	path = github.com/puzzle/dagger-module-helm/helm
+	url = https://github.com/puzzle/dagger-module-helm

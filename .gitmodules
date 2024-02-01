@@ -250,3 +250,6 @@
 [submodule "github.com/KGB33/daggerverse/rust"]
 	path = github.com/KGB33/daggerverse/rust
 	url = https://github.com/KGB33/daggerverse
+[submodule "github.com/helixml/runner"]
+	path = github.com/helixml/runner
+	url = https://github.com/helixml/runner

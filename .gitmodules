@@ -460,3 +460,6 @@
 [submodule "github.com/kpenfound/dagger-modules/proxy"]
 	path = github.com/kpenfound/dagger-modules/proxy
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/shykes/daggerverse/imagemagick"]
+	path = github.com/shykes/daggerverse/imagemagick
+	url = https://github.com/shykes/daggerverse

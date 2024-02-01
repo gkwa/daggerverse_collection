@@ -505,3 +505,6 @@
 [submodule "github.com/jcsirot/daggerverse/java"]
 	path = github.com/jcsirot/daggerverse/java
 	url = https://github.com/jcsirot/daggerverse
+[submodule "github.com/aweris/daggerverse/helm"]
+	path = github.com/aweris/daggerverse/helm
+	url = https://github.com/aweris/daggerverse

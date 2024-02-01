@@ -310,3 +310,6 @@
 [submodule "github.com/vito/daggerverse/nix"]
 	path = github.com/vito/daggerverse/nix
 	url = https://github.com/vito/daggerverse
+[submodule "github.com/grouville/daggerverse/cargo"]
+	path = github.com/grouville/daggerverse/cargo
+	url = https://github.com/grouville/daggerverse

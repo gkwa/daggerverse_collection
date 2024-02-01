@@ -121,3 +121,6 @@
 [submodule "github.com/fluent-ci-templates/fastlane-pipeline"]
 	path = github.com/fluent-ci-templates/fastlane-pipeline
 	url = https://github.com/fluent-ci-templates/fastlane-pipeline
+[submodule "github.com/fluent-ci-templates/rust-pipeline"]
+	path = github.com/fluent-ci-templates/rust-pipeline
+	url = https://github.com/fluent-ci-templates/rust-pipeline

@@ -511,3 +511,6 @@
 [submodule "github.com/aweris/daggerverse/kubectl"]
 	path = github.com/aweris/daggerverse/kubectl
 	url = https://github.com/aweris/daggerverse
+[submodule "github.com/TomChv/daggerverse/node"]
+	path = github.com/TomChv/daggerverse/node
+	url = https://github.com/TomChv/daggerverse

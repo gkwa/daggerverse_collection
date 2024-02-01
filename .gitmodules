@@ -358,3 +358,6 @@
 [submodule "github.com/aweris/gale/daggerverse/gale"]
 	path = github.com/aweris/gale/daggerverse/gale
 	url = https://github.com/aweris/gale
+[submodule "github.com/aweris/gale/daggerverse/source"]
+	path = github.com/aweris/gale/daggerverse/source
+	url = https://github.com/aweris/gale

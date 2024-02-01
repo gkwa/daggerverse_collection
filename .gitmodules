@@ -277,3 +277,6 @@
 [submodule "github.com/fluent-ci-templates/flutter-pipeline"]
 	path = github.com/fluent-ci-templates/flutter-pipeline
 	url = https://github.com/fluent-ci-templates/flutter-pipeline
+[submodule "github.com/fluent-ci-templates/android-pipeline"]
+	path = github.com/fluent-ci-templates/android-pipeline
+	url = https://github.com/fluent-ci-templates/android-pipeline

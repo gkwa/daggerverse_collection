@@ -484,3 +484,6 @@
 [submodule "github.com/jpadams/daggerverse/goVersion"]
 	path = github.com/jpadams/daggerverse/goVersion
 	url = https://github.com/jpadams/daggerverse
+[submodule "github.com/jpadams/daggerverse/helloSecret"]
+	path = github.com/jpadams/daggerverse/helloSecret
+	url = https://github.com/jpadams/daggerverse

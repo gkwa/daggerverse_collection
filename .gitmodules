@@ -280,3 +280,6 @@
 [submodule "github.com/fluent-ci-templates/android-pipeline"]
 	path = github.com/fluent-ci-templates/android-pipeline
 	url = https://github.com/fluent-ci-templates/android-pipeline
+[submodule "github.com/fluent-ci-templates/trivy-pipeline"]
+	path = github.com/fluent-ci-templates/trivy-pipeline
+	url = https://github.com/fluent-ci-templates/trivy-pipeline

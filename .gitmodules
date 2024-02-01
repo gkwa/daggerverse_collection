@@ -199,3 +199,6 @@
 [submodule "github.com/BondMachineHQ/BMBuildkit-FPGA"]
 	path = github.com/BondMachineHQ/BMBuildkit-FPGA
 	url = https://github.com/BondMachineHQ/BMBuildkit-FPGA
+[submodule "github.com/BondMachineHQ/BMBuildkit-dagger"]
+	path = github.com/BondMachineHQ/BMBuildkit-dagger
+	url = https://github.com/BondMachineHQ/BMBuildkit-dagger

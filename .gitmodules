@@ -445,3 +445,6 @@
 [submodule "github.com/kpenfound/dagger-modules/netlify"]
 	path = github.com/kpenfound/dagger-modules/netlify
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/kpenfound/dagger-modules/vault"]
+	path = github.com/kpenfound/dagger-modules/vault
+	url = https://github.com/kpenfound/dagger-modules

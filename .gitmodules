@@ -232,3 +232,6 @@
 [submodule "github.com/vbehar/daggerverse/jfrogcli"]
 	path = github.com/vbehar/daggerverse/jfrogcli
 	url = https://github.com/vbehar/daggerverse
+[submodule "github.com/levlaz/daggerverse/vapor"]
+	path = github.com/levlaz/daggerverse/vapor
+	url = https://github.com/levlaz/daggerverse

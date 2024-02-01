@@ -202,3 +202,6 @@
 [submodule "github.com/BondMachineHQ/BMBuildkit-dagger"]
 	path = github.com/BondMachineHQ/BMBuildkit-dagger
 	url = https://github.com/BondMachineHQ/BMBuildkit-dagger
+[submodule "github.com/nicholasjackson/daggerverse/deb"]
+	path = github.com/nicholasjackson/daggerverse/deb
+	url = https://github.com/nicholasjackson/daggerverse

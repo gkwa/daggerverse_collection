@@ -259,3 +259,6 @@
 [submodule "github.com/quartz-technology/daggerverse/node/typescript"]
 	path = github.com/quartz-technology/daggerverse/node/typescript
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/levlaz/daggerverse/nginx"]
+	path = github.com/levlaz/daggerverse/nginx
+	url = https://github.com/levlaz/daggerverse

@@ -418,3 +418,6 @@
 [submodule "github.com/shykes/daggerverse/tmate"]
 	path = github.com/shykes/daggerverse/tmate
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/aweris/daggerverse/docker"]
+	path = github.com/aweris/daggerverse/docker
+	url = https://github.com/aweris/daggerverse

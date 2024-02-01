@@ -190,3 +190,6 @@
 [submodule "github.com/sagikazarmark/daggerverse/archive"]
 	path = github.com/sagikazarmark/daggerverse/archive
 	url = https://github.com/sagikazarmark/daggerverse
+[submodule "github.com/sagikazarmark/daggerverse/arc"]
+	path = github.com/sagikazarmark/daggerverse/arc
+	url = https://github.com/sagikazarmark/daggerverse

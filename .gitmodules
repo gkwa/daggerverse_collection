@@ -64,3 +64,6 @@
 [submodule "github.com/tsirysndr/daggerverse/phpcs"]
 	path = github.com/tsirysndr/daggerverse/phpcs
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/phpcbf"]
+	path = github.com/tsirysndr/daggerverse/phpcbf
+	url = https://github.com/tsirysndr/daggerverse

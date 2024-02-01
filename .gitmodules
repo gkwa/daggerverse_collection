@@ -481,3 +481,6 @@
 [submodule "github.com/jpadams/daggerverse/staticcheck"]
 	path = github.com/jpadams/daggerverse/staticcheck
 	url = https://github.com/jpadams/daggerverse
+[submodule "github.com/jpadams/daggerverse/goVersion"]
+	path = github.com/jpadams/daggerverse/goVersion
+	url = https://github.com/jpadams/daggerverse

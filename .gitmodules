@@ -379,3 +379,6 @@
 [submodule "github.com/kpenfound/testcontainers-java-repro/module/testcontainers"]
 	path = github.com/kpenfound/testcontainers-java-repro/module/testcontainers
 	url = https://github.com/kpenfound/testcontainers-java-repro
+[submodule "github.com/kpenfound/dagger-modules/foo"]
+	path = github.com/kpenfound/dagger-modules/foo
+	url = https://github.com/kpenfound/dagger-modules

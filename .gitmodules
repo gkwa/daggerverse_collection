@@ -37,3 +37,6 @@
 [submodule "github.com/fluent-ci-templates/supabase-pipeline"]
 	path = github.com/fluent-ci-templates/supabase-pipeline
 	url = https://github.com/fluent-ci-templates/supabase-pipeline
+[submodule "github.com/fluent-ci-templates/spin-pipeline"]
+	path = github.com/fluent-ci-templates/spin-pipeline
+	url = https://github.com/fluent-ci-templates/spin-pipeline

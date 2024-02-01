@@ -322,3 +322,6 @@
 [submodule "github.com/vito/daggerverse/testcontainers"]
 	path = github.com/vito/daggerverse/testcontainers
 	url = https://github.com/vito/daggerverse
+[submodule "github.com/cirocosta/daggerverse/golangci-lint"]
+	path = github.com/cirocosta/daggerverse/golangci-lint
+	url = https://github.com/cirocosta/daggerverse

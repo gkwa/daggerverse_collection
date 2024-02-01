@@ -301,3 +301,6 @@
 [submodule "github.com/fluent-ci-templates/atlas-pipeline"]
 	path = github.com/fluent-ci-templates/atlas-pipeline
 	url = https://github.com/fluent-ci-templates/atlas-pipeline
+[submodule "github.com/fluent-ci-templates/cloudflare-pipeline"]
+	path = github.com/fluent-ci-templates/cloudflare-pipeline
+	url = https://github.com/fluent-ci-templates/cloudflare-pipeline

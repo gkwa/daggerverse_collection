@@ -223,3 +223,6 @@
 [submodule "github.com/kpenfound/dagger-modules/codecov"]
 	path = github.com/kpenfound/dagger-modules/codecov
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/jpadams/semgrep-dagger-module"]
+	path = github.com/jpadams/semgrep-dagger-module
+	url = https://github.com/jpadams/semgrep-dagger-module

@@ -502,3 +502,6 @@
 [submodule "github.com/quartz-technology/daggerverse/redis"]
 	path = github.com/quartz-technology/daggerverse/redis
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/jcsirot/daggerverse/java"]
+	path = github.com/jcsirot/daggerverse/java
+	url = https://github.com/jcsirot/daggerverse

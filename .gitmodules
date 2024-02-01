@@ -142,3 +142,6 @@
 [submodule "github.com/helderco/daggerverse/linguist"]
 	path = github.com/helderco/daggerverse/linguist
 	url = https://github.com/helderco/daggerverse
+[submodule "github.com/fluent-ci-templates/codecov-pipeline"]
+	path = github.com/fluent-ci-templates/codecov-pipeline
+	url = https://github.com/fluent-ci-templates/codecov-pipeline

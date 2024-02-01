@@ -514,3 +514,6 @@
 [submodule "github.com/TomChv/daggerverse/node"]
 	path = github.com/TomChv/daggerverse/node
 	url = https://github.com/TomChv/daggerverse
+[submodule "github.com/levlaz/daggerverse/get-ip"]
+	path = github.com/levlaz/daggerverse/get-ip
+	url = https://github.com/levlaz/daggerverse

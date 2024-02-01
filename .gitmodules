@@ -181,3 +181,6 @@
 [submodule "github.com/sagikazarmark/daggerverse/checksum"]
 	path = github.com/sagikazarmark/daggerverse/checksum
 	url = https://github.com/sagikazarmark/daggerverse
+[submodule "github.com/sagikazarmark/daggerverse/archivist"]
+	path = github.com/sagikazarmark/daggerverse/archivist
+	url = https://github.com/sagikazarmark/daggerverse

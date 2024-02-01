@@ -397,3 +397,6 @@
 [submodule "github.com/shykes/daggerverse/docker-compose"]
 	path = github.com/shykes/daggerverse/docker-compose
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/gerhard/daggerverse/flyio"]
+	path = github.com/gerhard/daggerverse/flyio
+	url = https://github.com/gerhard/daggerverse

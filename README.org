@@ -3,7 +3,7 @@
 ** summary
 
 dagger modules from https://daggerverse.dev in single git repo as
-submodules for purpose of learning dagger modules.
+submodules for the purpose of learning dagger modules.
 
 With this I can see lots of examples at once.
 

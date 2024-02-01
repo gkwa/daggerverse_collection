@@ -340,3 +340,6 @@
 [submodule "github.com/matipan/daggerverse/gradle"]
 	path = github.com/matipan/daggerverse/gradle
 	url = https://github.com/matipan/daggerverse
+[submodule "github.com/matipan/daggerverse/pulumi"]
+	path = github.com/matipan/daggerverse/pulumi
+	url = https://github.com/matipan/daggerverse

@@ -388,3 +388,6 @@
 [submodule "github.com/ibuildthecloud/daggerverse/amlsdk"]
 	path = github.com/ibuildthecloud/daggerverse/amlsdk
 	url = https://github.com/ibuildthecloud/daggerverse
+[submodule "github.com/ibuildthecloud/daggerverse/hello"]
+	path = github.com/ibuildthecloud/daggerverse/hello
+	url = https://github.com/ibuildthecloud/daggerverse

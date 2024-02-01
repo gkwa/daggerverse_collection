@@ -85,3 +85,6 @@
 [submodule "github.com/tsirysndr/daggerverse/golint"]
 	path = github.com/tsirysndr/daggerverse/golint
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/gofmt"]
+	path = github.com/tsirysndr/daggerverse/gofmt
+	url = https://github.com/tsirysndr/daggerverse

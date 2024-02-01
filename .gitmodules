@@ -208,3 +208,6 @@
 [submodule "github.com/grouville/daggerverse/rcodesign"]
 	path = github.com/grouville/daggerverse/rcodesign
 	url = https://github.com/grouville/daggerverse
+[submodule "github.com/shykes/daggerverse/tailscale"]
+	path = github.com/shykes/daggerverse/tailscale
+	url = https://github.com/shykes/daggerverse

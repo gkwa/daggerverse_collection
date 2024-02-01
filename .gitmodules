@@ -319,3 +319,6 @@
 [submodule "github.com/vito/kpenfound-dagger-modules/proxy"]
 	path = github.com/vito/kpenfound-dagger-modules/proxy
 	url = https://github.com/vito/kpenfound-dagger-modules
+[submodule "github.com/vito/daggerverse/testcontainers"]
+	path = github.com/vito/daggerverse/testcontainers
+	url = https://github.com/vito/daggerverse

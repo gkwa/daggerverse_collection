@@ -220,3 +220,6 @@
 [submodule "github.com/jpadams/fossa"]
 	path = github.com/jpadams/fossa
 	url = https://github.com/jpadams/fossa
+[submodule "github.com/kpenfound/dagger-modules/codecov"]
+	path = github.com/kpenfound/dagger-modules/codecov
+	url = https://github.com/kpenfound/dagger-modules

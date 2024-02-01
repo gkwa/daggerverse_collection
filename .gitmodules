@@ -427,3 +427,6 @@
 [submodule "github.com/shykes/daggerverse/ttlsh"]
 	path = github.com/shykes/daggerverse/ttlsh
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/sipsma/quartz-technology-daggerverse/node"]
+	path = github.com/sipsma/quartz-technology-daggerverse/node
+	url = https://github.com/sipsma/quartz-technology-daggerverse

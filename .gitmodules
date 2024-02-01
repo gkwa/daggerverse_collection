@@ -337,3 +337,6 @@
 [submodule "github.com/wingyplus/daggerverse/compose"]
 	path = github.com/wingyplus/daggerverse/compose
 	url = https://github.com/wingyplus/daggerverse
+[submodule "github.com/matipan/daggerverse/gradle"]
+	path = github.com/matipan/daggerverse/gradle
+	url = https://github.com/matipan/daggerverse

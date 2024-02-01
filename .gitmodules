@@ -244,3 +244,6 @@
 [submodule "github.com/jpadams/daggerverse/fossa"]
 	path = github.com/jpadams/daggerverse/fossa
 	url = https://github.com/jpadams/daggerverse
+[submodule "github.com/jpadams/daggerverse/infisical"]
+	path = github.com/jpadams/daggerverse/infisical
+	url = https://github.com/jpadams/daggerverse

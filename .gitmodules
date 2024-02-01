@@ -454,3 +454,6 @@
 [submodule "github.com/jpadams/daggerverse/trivy"]
 	path = github.com/jpadams/daggerverse/trivy
 	url = https://github.com/jpadams/daggerverse
+[submodule "github.com/aweris/daggerverse/kind"]
+	path = github.com/aweris/daggerverse/kind
+	url = https://github.com/aweris/daggerverse

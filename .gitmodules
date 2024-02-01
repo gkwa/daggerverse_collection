@@ -97,3 +97,6 @@
 [submodule "github.com/tsirysndr/daggerverse/devbox"]
 	path = github.com/tsirysndr/daggerverse/devbox
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/conftest"]
+	path = github.com/tsirysndr/daggerverse/conftest
+	url = https://github.com/tsirysndr/daggerverse

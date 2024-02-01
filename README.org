@@ -14,6 +14,7 @@ git clone https://github.com/taylormonacelli/daggerverse_collection.git
 cd daggerverse_collection
 git submodule update --jobs=4 --init --recursive
 git submodule update --jobs=4 --recursive --remote
+git diff
 #+end_example
 
 Resources:

@@ -409,3 +409,6 @@
 [submodule "github.com/sipsma/daggerverse/yamlinvaders"]
 	path = github.com/sipsma/daggerverse/yamlinvaders
 	url = https://github.com/sipsma/daggerverse
+[submodule "github.com/jedevc/daggerverse/hugo/github"]
+	path = github.com/jedevc/daggerverse/hugo/github
+	url = https://github.com/jedevc/daggerverse

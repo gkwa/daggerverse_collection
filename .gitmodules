@@ -139,3 +139,6 @@
 [submodule "github.com/samalba/inline-python-mod"]
 	path = github.com/samalba/inline-python-mod
 	url = https://github.com/samalba/inline-python-mod
+[submodule "github.com/helderco/daggerverse/linguist"]
+	path = github.com/helderco/daggerverse/linguist
+	url = https://github.com/helderco/daggerverse

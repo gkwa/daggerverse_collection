@@ -73,3 +73,6 @@
 [submodule "github.com/tsirysndr/daggerverse/open-policy-agent"]
 	path = github.com/tsirysndr/daggerverse/open-policy-agent
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/nix"]
+	path = github.com/tsirysndr/daggerverse/nix
+	url = https://github.com/tsirysndr/daggerverse

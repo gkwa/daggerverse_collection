@@ -478,3 +478,6 @@
 [submodule "github.com/jpadams/daggerverse/drupal"]
 	path = github.com/jpadams/daggerverse/drupal
 	url = https://github.com/jpadams/daggerverse
+[submodule "github.com/jpadams/daggerverse/staticcheck"]
+	path = github.com/jpadams/daggerverse/staticcheck
+	url = https://github.com/jpadams/daggerverse

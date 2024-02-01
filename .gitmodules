@@ -49,3 +49,6 @@
 [submodule "github.com/tsirysndr/daggerverse/terraform-docs"]
 	path = github.com/tsirysndr/daggerverse/terraform-docs
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/shellcheck"]
+	path = github.com/tsirysndr/daggerverse/shellcheck
+	url = https://github.com/tsirysndr/daggerverse

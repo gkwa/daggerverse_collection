@@ -496,3 +496,6 @@
 [submodule "github.com/kpenfound/dagger-modules/golang"]
 	path = github.com/kpenfound/dagger-modules/golang
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/quartz-technology/daggerverse/golang"]
+	path = github.com/quartz-technology/daggerverse/golang
+	url = https://github.com/quartz-technology/daggerverse

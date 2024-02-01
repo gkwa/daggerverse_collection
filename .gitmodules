@@ -166,3 +166,6 @@
 [submodule "github.com/sagikazarmark/daggerverse/spectral"]
 	path = github.com/sagikazarmark/daggerverse/spectral
 	url = https://github.com/sagikazarmark/daggerverse
+[submodule "github.com/sagikazarmark/daggerverse/kafka"]
+	path = github.com/sagikazarmark/daggerverse/kafka
+	url = https://github.com/sagikazarmark/daggerverse

@@ -16,3 +16,6 @@
 [submodule "github.com/matipan/daggerverse/eksctl"]
 	path = github.com/matipan/daggerverse/eksctl
 	url = https://github.com/matipan/daggerverse
+[submodule "github.com/fluent-ci-templates/sonar-pipeline"]
+	path = github.com/fluent-ci-templates/sonar-pipeline
+	url = https://github.com/fluent-ci-templates/sonar-pipeline

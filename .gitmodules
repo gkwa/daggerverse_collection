@@ -1,3 +1,6 @@
 [submodule "github.com/excoriate/daggerverse/iac-terragrunt"]
 	path = github.com/excoriate/daggerverse/iac-terragrunt
 	url = https://github.com/excoriate/daggerverse
+[submodule "github.com/fluent-ci-templates/syft-pipeline"]
+	path = github.com/fluent-ci-templates/syft-pipeline
+	url = https://github.com/fluent-ci-templates/syft-pipeline

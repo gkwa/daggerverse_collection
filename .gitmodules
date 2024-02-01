@@ -391,3 +391,6 @@
 [submodule "github.com/ibuildthecloud/daggerverse/hello"]
 	path = github.com/ibuildthecloud/daggerverse/hello
 	url = https://github.com/ibuildthecloud/daggerverse
+[submodule "github.com/shykes/daggerverse/containers"]
+	path = github.com/shykes/daggerverse/containers
+	url = https://github.com/shykes/daggerverse

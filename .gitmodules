@@ -193,3 +193,6 @@
 [submodule "github.com/sagikazarmark/daggerverse/arc"]
 	path = github.com/sagikazarmark/daggerverse/arc
 	url = https://github.com/sagikazarmark/daggerverse
+[submodule "github.com/lukemarsden/dagger-grype"]
+	path = github.com/lukemarsden/dagger-grype
+	url = https://github.com/lukemarsden/dagger-grype

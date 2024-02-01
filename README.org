@@ -2,3 +2,7 @@ dagger modules from https://daggerverse.dev
 
 With this I can see lots of examples at once in order to learn dagger
 modules.
+
+Resources:
++ https://docs.dagger.io/zenith
++ https://daggerverse.dev

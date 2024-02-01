@@ -490,3 +490,6 @@
 [submodule "github.com/vito/daggerverse/concourse"]
 	path = github.com/vito/daggerverse/concourse
 	url = https://github.com/vito/daggerverse
+[submodule "github.com/dagger/dagger/sdk/python/runtime"]
+	path = github.com/dagger/dagger/sdk/python/runtime
+	url = https://github.com/dagger/dagger

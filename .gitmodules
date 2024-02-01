@@ -295,3 +295,6 @@
 [submodule "github.com/fluent-ci-templates/bazel-pipeline"]
 	path = github.com/fluent-ci-templates/bazel-pipeline
 	url = https://github.com/fluent-ci-templates/bazel-pipeline
+[submodule "github.com/fluent-ci-templates/drizzlekit-pipeline"]
+	path = github.com/fluent-ci-templates/drizzlekit-pipeline
+	url = https://github.com/fluent-ci-templates/drizzlekit-pipeline

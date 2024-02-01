@@ -421,3 +421,6 @@
 [submodule "github.com/aweris/daggerverse/docker"]
 	path = github.com/aweris/daggerverse/docker
 	url = https://github.com/aweris/daggerverse
+[submodule "github.com/sipsma/daggerverse/testpublish"]
+	path = github.com/sipsma/daggerverse/testpublish
+	url = https://github.com/sipsma/daggerverse

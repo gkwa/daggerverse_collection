@@ -415,3 +415,6 @@
 [submodule "github.com/quartz-technology/daggerverse/golangci-lint"]
 	path = github.com/quartz-technology/daggerverse/golangci-lint
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/shykes/daggerverse/tmate"]
+	path = github.com/shykes/daggerverse/tmate
+	url = https://github.com/shykes/daggerverse

@@ -523,3 +523,6 @@
 [submodule "github.com/aweris/daggerverse/gale"]
 	path = github.com/aweris/daggerverse/gale
 	url = https://github.com/aweris/daggerverse
+[submodule "github.com/aweris/daggerverse/gh"]
+	path = github.com/aweris/daggerverse/gh
+	url = https://github.com/aweris/daggerverse

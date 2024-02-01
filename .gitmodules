@@ -463,3 +463,6 @@
 [submodule "github.com/shykes/daggerverse/imagemagick"]
 	path = github.com/shykes/daggerverse/imagemagick
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/vito/daggerverse/apko"]
+	path = github.com/vito/daggerverse/apko
+	url = https://github.com/vito/daggerverse

@@ -373,3 +373,6 @@
 [submodule "github.com/kpenfound/dagger-modules/dockerd"]
 	path = github.com/kpenfound/dagger-modules/dockerd
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/quartz-technology/daggerverse/dagger"]
+	path = github.com/quartz-technology/daggerverse/dagger
+	url = https://github.com/quartz-technology/daggerverse

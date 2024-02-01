@@ -439,3 +439,6 @@
 [submodule "github.com/shykes/daggerverse/wolfi"]
 	path = github.com/shykes/daggerverse/wolfi
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/kpenfound/dagger-modules/fly"]
+	path = github.com/kpenfound/dagger-modules/fly
+	url = https://github.com/kpenfound/dagger-modules

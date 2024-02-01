@@ -172,3 +172,6 @@
 [submodule "github.com/sagikazarmark/daggerverse/golangci-lint"]
 	path = github.com/sagikazarmark/daggerverse/golangci-lint
 	url = https://github.com/sagikazarmark/daggerverse
+[submodule "github.com/sagikazarmark/daggerverse/gh"]
+	path = github.com/sagikazarmark/daggerverse/gh
+	url = https://github.com/sagikazarmark/daggerverse

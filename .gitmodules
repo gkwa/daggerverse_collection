@@ -100,3 +100,6 @@
 [submodule "github.com/tsirysndr/daggerverse/conftest"]
 	path = github.com/tsirysndr/daggerverse/conftest
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/checkmake"]
+	path = github.com/tsirysndr/daggerverse/checkmake
+	url = https://github.com/tsirysndr/daggerverse

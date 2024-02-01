@@ -382,3 +382,6 @@
 [submodule "github.com/kpenfound/dagger-modules/foo"]
 	path = github.com/kpenfound/dagger-modules/foo
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/quartz-technology/daggerverse/postgres"]
+	path = github.com/quartz-technology/daggerverse/postgres
+	url = https://github.com/quartz-technology/daggerverse

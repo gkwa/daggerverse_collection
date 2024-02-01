@@ -136,3 +136,6 @@
 [submodule "github.com/shykes/daggerverse/ollama"]
 	path = github.com/shykes/daggerverse/ollama
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/samalba/inline-python-mod"]
+	path = github.com/samalba/inline-python-mod
+	url = https://github.com/samalba/inline-python-mod

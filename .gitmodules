@@ -214,3 +214,6 @@
 [submodule "github.com/lukemarsden/dagger-snyk"]
 	path = github.com/lukemarsden/dagger-snyk
 	url = https://github.com/lukemarsden/dagger-snyk
+[submodule "github.com/levlaz/daggerverse/openring"]
+	path = github.com/levlaz/daggerverse/openring
+	url = https://github.com/levlaz/daggerverse

@@ -499,3 +499,6 @@
 [submodule "github.com/quartz-technology/daggerverse/golang"]
 	path = github.com/quartz-technology/daggerverse/golang
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/quartz-technology/daggerverse/redis"]
+	path = github.com/quartz-technology/daggerverse/redis
+	url = https://github.com/quartz-technology/daggerverse

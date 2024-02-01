@@ -88,3 +88,6 @@
 [submodule "github.com/tsirysndr/daggerverse/gofmt"]
 	path = github.com/tsirysndr/daggerverse/gofmt
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/flox"]
+	path = github.com/tsirysndr/daggerverse/flox
+	url = https://github.com/tsirysndr/daggerverse

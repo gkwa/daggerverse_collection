@@ -529,3 +529,6 @@
 [submodule "github.com/shykes/dagger/zenith/vito-mod"]
 	path = github.com/shykes/dagger/zenith/vito-mod
 	url = https://github.com/shykes/dagger
+[submodule "github.com/vikram-dagger/daggerverse/hello-dagger"]
+	path = github.com/vikram-dagger/daggerverse/hello-dagger
+	url = https://github.com/vikram-dagger/daggerverse

@@ -532,3 +532,6 @@
 [submodule "github.com/vikram-dagger/daggerverse/hello-dagger"]
 	path = github.com/vikram-dagger/daggerverse/hello-dagger
 	url = https://github.com/vikram-dagger/daggerverse
+[submodule "github.com/lukemarsden/dagger-aws"]
+	path = github.com/lukemarsden/dagger-aws
+	url = https://github.com/lukemarsden/dagger-aws

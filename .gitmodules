@@ -535,3 +535,15 @@
 [submodule "github.com/lukemarsden/dagger-aws"]
 	path = github.com/lukemarsden/dagger-aws
 	url = https://github.com/lukemarsden/dagger-aws
+[submodule "github.com/sagikazarmark/daggerverse/quarto"]
+	path = github.com/sagikazarmark/daggerverse/quarto
+	url = https://github.com/sagikazarmark/daggerverse
+[submodule "github.com/vito/bass/ci"]
+	path = github.com/vito/bass/ci
+	url = https://github.com/vito/bass
+[submodule "github.com/jumppad-labs/daggerverse/github"]
+	path = github.com/jumppad-labs/daggerverse/github
+	url = https://github.com/jumppad-labs/daggerverse
+[submodule "github.com/kpenfound/dagger-modules/ruff"]
+	path = github.com/kpenfound/dagger-modules/ruff
+	url = https://github.com/kpenfound/dagger-modules

@@ -574,3 +574,6 @@
 [submodule "github.com/quartz-technology/daggerverse/cypress"]
 	path = github.com/quartz-technology/daggerverse/cypress
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/dagger/dagger/sdk/typescript/dev/node"]
+	path = github.com/dagger/dagger/sdk/typescript/dev/node
+	url = https://github.com/dagger/dagger

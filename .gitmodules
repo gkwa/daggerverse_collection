@@ -565,3 +565,6 @@
 [submodule "github.com/samalba/dagger-modules/remote-dagger"]
 	path = github.com/samalba/dagger-modules/remote-dagger
 	url = https://github.com/samalba/dagger-modules
+[submodule "github.com/quartz-technology/daggerverse/eslint"]
+	path = github.com/quartz-technology/daggerverse/eslint
+	url = https://github.com/quartz-technology/daggerverse

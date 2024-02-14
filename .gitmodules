@@ -556,3 +556,6 @@
 [submodule "github.com/gerhard/daggerverse/notify"]
 	path = github.com/gerhard/daggerverse/notify
 	url = https://github.com/gerhard/daggerverse
+[submodule "github.com/samalba/dagger-modules/inline-python"]
+	path = github.com/samalba/dagger-modules/inline-python
+	url = https://github.com/samalba/dagger-modules

@@ -583,3 +583,6 @@
 [submodule "github.com/samalba/dagger-modules/ssh"]
 	path = github.com/samalba/dagger-modules/ssh
 	url = https://github.com/samalba/dagger-modules
+[submodule "github.com/grouville/daggerverse/zip"]
+	path = github.com/grouville/daggerverse/zip
+	url = https://github.com/grouville/daggerverse

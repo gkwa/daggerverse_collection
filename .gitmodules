@@ -586,3 +586,6 @@
 [submodule "github.com/grouville/daggerverse/zip"]
 	path = github.com/grouville/daggerverse/zip
 	url = https://github.com/grouville/daggerverse
+[submodule "github.com/jumppad-labs/daggerverse/vault"]
+	path = github.com/jumppad-labs/daggerverse/vault
+	url = https://github.com/jumppad-labs/daggerverse

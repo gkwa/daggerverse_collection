@@ -589,3 +589,6 @@
 [submodule "github.com/jumppad-labs/daggerverse/vault"]
 	path = github.com/jumppad-labs/daggerverse/vault
 	url = https://github.com/jumppad-labs/daggerverse
+[submodule "github.com/slumbering/daggerverse/vercel"]
+	path = github.com/slumbering/daggerverse/vercel
+	url = https://github.com/slumbering/daggerverse

@@ -595,3 +595,6 @@
 [submodule "github.com/crjm/dagger-modules/vite"]
 	path = github.com/crjm/dagger-modules/vite
 	url = https://github.com/crjm/dagger-modules
+[submodule "github.com/chainloop-dev/chainloop/extras/dagger"]
+	path = github.com/chainloop-dev/chainloop/extras/dagger
+	url = https://github.com/chainloop-dev/chainloop

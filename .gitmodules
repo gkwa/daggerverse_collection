@@ -550,3 +550,6 @@
 [submodule "github.com/jumppad-labs/daggerverse/deb"]
 	path = github.com/jumppad-labs/daggerverse/deb
 	url = https://github.com/jumppad-labs/daggerverse
+[submodule "github.com/nicholasjackson/demo-dagger-vault/dagger/modules/vault"]
+	path = github.com/nicholasjackson/demo-dagger-vault/dagger/modules/vault
+	url = https://github.com/nicholasjackson/demo-dagger-vault

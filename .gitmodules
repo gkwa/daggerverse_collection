@@ -571,3 +571,6 @@
 [submodule "github.com/quartz-technology/daggerverse/nginx"]
 	path = github.com/quartz-technology/daggerverse/nginx
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/quartz-technology/daggerverse/cypress"]
+	path = github.com/quartz-technology/daggerverse/cypress
+	url = https://github.com/quartz-technology/daggerverse

@@ -568,3 +568,6 @@
 [submodule "github.com/quartz-technology/daggerverse/eslint"]
 	path = github.com/quartz-technology/daggerverse/eslint
 	url = https://github.com/quartz-technology/daggerverse
+[submodule "github.com/quartz-technology/daggerverse/nginx"]
+	path = github.com/quartz-technology/daggerverse/nginx
+	url = https://github.com/quartz-technology/daggerverse

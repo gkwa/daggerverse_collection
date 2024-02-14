@@ -547,3 +547,6 @@
 [submodule "github.com/kpenfound/dagger-modules/ruff"]
 	path = github.com/kpenfound/dagger-modules/ruff
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/jumppad-labs/daggerverse/deb"]
+	path = github.com/jumppad-labs/daggerverse/deb
+	url = https://github.com/jumppad-labs/daggerverse

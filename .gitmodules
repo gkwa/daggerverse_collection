@@ -553,3 +553,6 @@
 [submodule "github.com/nicholasjackson/demo-dagger-vault/dagger/modules/vault"]
 	path = github.com/nicholasjackson/demo-dagger-vault/dagger/modules/vault
 	url = https://github.com/nicholasjackson/demo-dagger-vault
+[submodule "github.com/gerhard/daggerverse/notify"]
+	path = github.com/gerhard/daggerverse/notify
+	url = https://github.com/gerhard/daggerverse

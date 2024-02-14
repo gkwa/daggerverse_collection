@@ -559,3 +559,6 @@
 [submodule "github.com/samalba/dagger-modules/inline-python"]
 	path = github.com/samalba/dagger-modules/inline-python
 	url = https://github.com/samalba/dagger-modules
+[submodule "github.com/marcosnils/daggerverse/utils"]
+	path = github.com/marcosnils/daggerverse/utils
+	url = https://github.com/marcosnils/daggerverse

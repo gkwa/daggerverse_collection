@@ -592,3 +592,6 @@
 [submodule "github.com/slumbering/daggerverse/vercel"]
 	path = github.com/slumbering/daggerverse/vercel
 	url = https://github.com/slumbering/daggerverse
+[submodule "github.com/crjm/dagger-modules/vite"]
+	path = github.com/crjm/dagger-modules/vite
+	url = https://github.com/crjm/dagger-modules

@@ -577,3 +577,6 @@
 [submodule "github.com/dagger/dagger/sdk/typescript/dev/node"]
 	path = github.com/dagger/dagger/sdk/typescript/dev/node
 	url = https://github.com/dagger/dagger
+[submodule "github.com/shykes/daggerverse/docker"]
+	path = github.com/shykes/daggerverse/docker
+	url = https://github.com/shykes/daggerverse

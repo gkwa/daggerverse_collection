@@ -796,3 +796,6 @@
 [submodule "github.com/RawkodeAcademy/RawkodeAcademy/daggerverse/nodejs"]
 	path = github.com/RawkodeAcademy/RawkodeAcademy/daggerverse/nodejs
 	url = https://github.com/RawkodeAcademy/RawkodeAcademy
+[submodule "github.com/fcanovai/daggerverse/controller-gen"]
+	path = github.com/fcanovai/daggerverse/controller-gen
+	url = https://github.com/fcanovai/daggerverse

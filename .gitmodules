@@ -895,3 +895,6 @@
 [submodule "github.com/dagger/dagger-test-modules/ts"]
 	path = github.com/dagger/dagger-test-modules/ts
 	url = https://github.com/dagger/dagger-test-modules
+[submodule "github.com/cloudnative-pg/daggerverse/controller-gen"]
+	path = github.com/cloudnative-pg/daggerverse/controller-gen
+	url = https://github.com/cloudnative-pg/daggerverse

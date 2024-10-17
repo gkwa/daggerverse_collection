@@ -754,3 +754,6 @@
 [submodule "github.com/dictybase-docker/dagger-of-dcr/pulumi-ops"]
 	path = github.com/dictybase-docker/dagger-of-dcr/pulumi-ops
 	url = https://github.com/dictybase-docker/dagger-of-dcr
+[submodule "github.com/NunoFrRibeiro/personal-blog"]
+	path = github.com/NunoFrRibeiro/personal-blog
+	url = https://github.com/NunoFrRibeiro/personal-blog

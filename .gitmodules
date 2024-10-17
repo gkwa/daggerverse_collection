@@ -652,3 +652,6 @@
 [submodule "github.com/anthonybrice/timpkg"]
 	path = github.com/anthonybrice/timpkg
 	url = https://github.com/anthonybrice/timpkg
+[submodule "github.com/shykes/git/dev"]
+	path = github.com/shykes/git/dev
+	url = https://github.com/shykes/git

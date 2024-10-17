@@ -658,3 +658,6 @@
 [submodule "github.com/camptocamp/setup-dagger"]
 	path = github.com/camptocamp/setup-dagger
 	url = https://github.com/camptocamp/setup-dagger
+[submodule "github.com/EmmS21/daggerverse/createSvelteTests"]
+	path = github.com/EmmS21/daggerverse/createSvelteTests
+	url = https://github.com/EmmS21/daggerverse

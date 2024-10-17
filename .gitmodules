@@ -823,3 +823,6 @@
 [submodule "github.com/wingyplus/dagger/sdk/elixir"]
 	path = github.com/wingyplus/dagger/sdk/elixir
 	url = https://github.com/wingyplus/dagger
+[submodule "github.com/openmeterio/openmeter"]
+	path = github.com/openmeterio/openmeter
+	url = https://github.com/openmeterio/openmeter

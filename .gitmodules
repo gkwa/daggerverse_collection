@@ -934,3 +934,6 @@
 [submodule "github.com/samalba/dagger-modules/smart-module"]
 	path = github.com/samalba/dagger-modules/smart-module
 	url = https://github.com/samalba/dagger-modules
+[submodule "github.com/TomChv/dagger/version"]
+	path = github.com/TomChv/dagger/version
+	url = https://github.com/TomChv/dagger

@@ -847,3 +847,6 @@
 [submodule "github.com/fcanovai/daggerverse/protoc-gen-go-grpc"]
 	path = github.com/fcanovai/daggerverse/protoc-gen-go-grpc
 	url = https://github.com/fcanovai/daggerverse
+[submodule "github.com/fcanovai/daggerverse/commitlint"]
+	path = github.com/fcanovai/daggerverse/commitlint
+	url = https://github.com/fcanovai/daggerverse

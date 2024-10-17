@@ -802,3 +802,6 @@
 [submodule "github.com/fluent-ci-templates/base-pipeline"]
 	path = github.com/fluent-ci-templates/base-pipeline
 	url = https://github.com/fluent-ci-templates/base-pipeline
+[submodule "github.com/kid/gha"]
+	path = github.com/kid/gha
+	url = https://github.com/kid/gha

@@ -631,3 +631,6 @@
 [submodule "github.com/shykes/daggerverse/dsh"]
 	path = github.com/shykes/daggerverse/dsh
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/kubeconform"]
+	path = github.com/tsirysndr/daggerverse/kubeconform
+	url = https://github.com/tsirysndr/daggerverse

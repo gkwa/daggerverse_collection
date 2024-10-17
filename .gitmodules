@@ -913,3 +913,6 @@
 [submodule "github.com/cloudnative-pg/daggerverse/spellcheck"]
 	path = github.com/cloudnative-pg/daggerverse/spellcheck
 	url = https://github.com/cloudnative-pg/daggerverse
+[submodule "github.com/cloudnative-pg/daggerverse/uncommitted"]
+	path = github.com/cloudnative-pg/daggerverse/uncommitted
+	url = https://github.com/cloudnative-pg/daggerverse

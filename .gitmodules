@@ -1057,3 +1057,6 @@
 [submodule "github.com/svallebro/dagger-tools"]
 	path = github.com/svallebro/dagger-tools
 	url = https://github.com/svallebro/dagger-tools
+[submodule "github.com/marcosnils/daggerverse/k3s"]
+	path = github.com/marcosnils/daggerverse/k3s
+	url = https://github.com/marcosnils/daggerverse

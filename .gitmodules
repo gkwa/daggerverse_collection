@@ -604,3 +604,6 @@
 [submodule "github.com/shykes/chainloop"]
 	path = github.com/shykes/chainloop
 	url = https://github.com/shykes/chainloop
+[submodule "github.com/SpokaneTech/SpokaneTech_Py"]
+	path = github.com/SpokaneTech/SpokaneTech_Py
+	url = https://github.com/SpokaneTech/SpokaneTech_Py

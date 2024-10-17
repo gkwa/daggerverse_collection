@@ -1081,3 +1081,6 @@
 [submodule "github.com/RawkodeAcademy/RawkodeAcademy/daggerverse/sops"]
 	path = github.com/RawkodeAcademy/RawkodeAcademy/daggerverse/sops
 	url = https://github.com/RawkodeAcademy/RawkodeAcademy
+[submodule "github.com/levlaz/daggerverse/miniflux"]
+	path = github.com/levlaz/daggerverse/miniflux
+	url = https://github.com/levlaz/daggerverse

@@ -868,3 +868,6 @@
 [submodule "github.com/seungyeop-lee/daggerverse/scp"]
 	path = github.com/seungyeop-lee/daggerverse/scp
 	url = https://github.com/seungyeop-lee/daggerverse
+[submodule "github.com/seungyeop-lee/daggerverse/ssh"]
+	path = github.com/seungyeop-lee/daggerverse/ssh
+	url = https://github.com/seungyeop-lee/daggerverse

@@ -997,3 +997,6 @@
 [submodule "github.com/replicatedhq/daggerverse/onepassword"]
 	path = github.com/replicatedhq/daggerverse/onepassword
 	url = https://github.com/replicatedhq/daggerverse
+[submodule "github.com/digiogithub/dagger-deploy-tools/android"]
+	path = github.com/digiogithub/dagger-deploy-tools/android
+	url = https://github.com/digiogithub/dagger-deploy-tools

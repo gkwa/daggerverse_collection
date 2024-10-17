@@ -676,3 +676,6 @@
 [submodule "github.com/kpenfound/greetings-api"]
 	path = github.com/kpenfound/greetings-api
 	url = https://github.com/kpenfound/greetings-api
+[submodule "github.com/dagger/dagger/sdk/typescript/runtime"]
+	path = github.com/dagger/dagger/sdk/typescript/runtime
+	url = https://github.com/dagger/dagger

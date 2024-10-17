@@ -1087,3 +1087,6 @@
 [submodule "github.com/dagger/dagger-php-sdk"]
 	path = github.com/dagger/dagger-php-sdk
 	url = https://github.com/dagger/dagger-php-sdk
+[submodule "github.com/levlaz/daggerverse/plausible"]
+	path = github.com/levlaz/daggerverse/plausible
+	url = https://github.com/levlaz/daggerverse

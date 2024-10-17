@@ -781,3 +781,6 @@
 [submodule "github.com/tsirysndr/daggerverse/megalinter"]
 	path = github.com/tsirysndr/daggerverse/megalinter
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/wingyplus/dagger/sdk/php"]
+	path = github.com/wingyplus/dagger/sdk/php
+	url = https://github.com/wingyplus/dagger

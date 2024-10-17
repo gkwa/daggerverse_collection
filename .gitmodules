@@ -856,3 +856,6 @@
 [submodule "github.com/jozu-ai/daggerverse/kit"]
 	path = github.com/jozu-ai/daggerverse/kit
 	url = https://github.com/jozu-ai/daggerverse
+[submodule "github.com/vito/daggerverse/bass"]
+	path = github.com/vito/daggerverse/bass
+	url = https://github.com/vito/daggerverse

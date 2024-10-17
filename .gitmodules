@@ -973,3 +973,6 @@
 [submodule "github.com/JFenstermacher/daggerverse/buf"]
 	path = github.com/JFenstermacher/daggerverse/buf
 	url = https://github.com/JFenstermacher/daggerverse
+[submodule "github.com/mykiwi/daggerverse/php-composer-security-checker"]
+	path = github.com/mykiwi/daggerverse/php-composer-security-checker
+	url = https://github.com/mykiwi/daggerverse

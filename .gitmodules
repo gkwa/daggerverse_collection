@@ -1015,3 +1015,6 @@
 [submodule "github.com/levlaz/medplum"]
 	path = github.com/levlaz/medplum
 	url = https://github.com/levlaz/medplum
+[submodule "github.com/mxdev88/daggerverse/scrapyd-client"]
+	path = github.com/mxdev88/daggerverse/scrapyd-client
+	url = https://github.com/mxdev88/daggerverse

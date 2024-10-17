@@ -1006,3 +1006,6 @@
 [submodule "github.com/matipan/daggerverse/image-updater"]
 	path = github.com/matipan/daggerverse/image-updater
 	url = https://github.com/matipan/daggerverse
+[submodule "github.com/puzzle/dagger-techlab/mod"]
+	path = github.com/puzzle/dagger-techlab/mod
+	url = https://github.com/puzzle/dagger-techlab

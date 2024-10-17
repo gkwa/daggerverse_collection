@@ -988,3 +988,6 @@
 [submodule "github.com/levlaz/daggerverse/evolution"]
 	path = github.com/levlaz/daggerverse/evolution
 	url = https://github.com/levlaz/daggerverse
+[submodule "github.com/dciangot/daggerverse/commanders"]
+	path = github.com/dciangot/daggerverse/commanders
+	url = https://github.com/dciangot/daggerverse

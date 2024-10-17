@@ -613,3 +613,6 @@
 [submodule "github.com/fluent-ci-templates/microcks-pipeline"]
 	path = github.com/fluent-ci-templates/microcks-pipeline
 	url = https://github.com/fluent-ci-templates/microcks-pipeline
+[submodule "github.com/tsirysndr/daggerverse/envhub"]
+	path = github.com/tsirysndr/daggerverse/envhub
+	url = https://github.com/tsirysndr/daggerverse

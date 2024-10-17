@@ -862,3 +862,6 @@
 [submodule "github.com/jedevc/dagger-test-modules/versioned"]
 	path = github.com/jedevc/dagger-test-modules/versioned
 	url = https://github.com/jedevc/dagger-test-modules
+[submodule "github.com/seungyeop-lee/daggerverse/private-git"]
+	path = github.com/seungyeop-lee/daggerverse/private-git
+	url = https://github.com/seungyeop-lee/daggerverse

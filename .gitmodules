@@ -958,3 +958,6 @@
 [submodule "github.com/TomChv/dagger/modules/dirdiff"]
 	path = github.com/TomChv/dagger/modules/dirdiff
 	url = https://github.com/TomChv/dagger
+[submodule "github.com/TomChv/dagger/modules/shellcheck"]
+	path = github.com/TomChv/dagger/modules/shellcheck
+	url = https://github.com/TomChv/dagger

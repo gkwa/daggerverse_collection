@@ -817,3 +817,6 @@
 [submodule "github.com/depot/benchmark-openmeter/upstream"]
 	path = github.com/depot/benchmark-openmeter/upstream
 	url = https://github.com/depot/benchmark-openmeter
+[submodule "github.com/charjr/dagger-modules/test-php-doc"]
+	path = github.com/charjr/dagger-modules/test-php-doc
+	url = https://github.com/charjr/dagger-modules

@@ -805,3 +805,6 @@
 [submodule "github.com/kid/gha"]
 	path = github.com/kid/gha
 	url = https://github.com/kid/gha
+[submodule "github.com/dagger/dagger/docs"]
+	path = github.com/dagger/dagger/docs
+	url = https://github.com/dagger/dagger

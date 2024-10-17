@@ -1060,3 +1060,6 @@
 [submodule "github.com/marcosnils/daggerverse/k3s"]
 	path = github.com/marcosnils/daggerverse/k3s
 	url = https://github.com/marcosnils/daggerverse
+[submodule "github.com/rajatjindal/daggerverse/caddy"]
+	path = github.com/rajatjindal/daggerverse/caddy
+	url = https://github.com/rajatjindal/daggerverse

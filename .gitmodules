@@ -724,3 +724,6 @@
 [submodule "github.com/dagger/dagger/dev"]
 	path = github.com/dagger/dagger/dev
 	url = https://github.com/dagger/dagger
+[submodule "github.com/dagger/dagger/go"]
+	path = github.com/dagger/dagger/go
+	url = https://github.com/dagger/dagger

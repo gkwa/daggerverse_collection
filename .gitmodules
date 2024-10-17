@@ -760,3 +760,6 @@
 [submodule "github.com/fluent-ci-templates/dotnet-pipeline"]
 	path = github.com/fluent-ci-templates/dotnet-pipeline
 	url = https://github.com/fluent-ci-templates/dotnet-pipeline
+[submodule "github.com/fluent-ci-templates/gleam-pipeline"]
+	path = github.com/fluent-ci-templates/gleam-pipeline
+	url = https://github.com/fluent-ci-templates/gleam-pipeline

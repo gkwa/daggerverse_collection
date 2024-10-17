@@ -904,3 +904,6 @@
 [submodule "github.com/cloudnative-pg/daggerverse/protoc-gen-doc"]
 	path = github.com/cloudnative-pg/daggerverse/protoc-gen-doc
 	url = https://github.com/cloudnative-pg/daggerverse
+[submodule "github.com/cloudnative-pg/daggerverse/protoc-gen-go-grpc"]
+	path = github.com/cloudnative-pg/daggerverse/protoc-gen-go-grpc
+	url = https://github.com/cloudnative-pg/daggerverse

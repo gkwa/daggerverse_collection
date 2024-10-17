@@ -643,3 +643,6 @@
 [submodule "github.com/denhamparry/daggerverse/bincapz"]
 	path = github.com/denhamparry/daggerverse/bincapz
 	url = https://github.com/denhamparry/daggerverse
+[submodule "github.com/fluent-ci-templates/heroku-pipeline"]
+	path = github.com/fluent-ci-templates/heroku-pipeline
+	url = https://github.com/fluent-ci-templates/heroku-pipeline

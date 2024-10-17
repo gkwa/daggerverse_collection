@@ -1033,3 +1033,6 @@
 [submodule "github.com/dictybase-docker/dagger-of-dcr/container-image"]
 	path = github.com/dictybase-docker/dagger-of-dcr/container-image
 	url = https://github.com/dictybase-docker/dagger-of-dcr
+[submodule "github.com/dagger/dagger/modules/shellcheck"]
+	path = github.com/dagger/dagger/modules/shellcheck
+	url = https://github.com/dagger/dagger

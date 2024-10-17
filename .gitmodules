@@ -898,3 +898,6 @@
 [submodule "github.com/cloudnative-pg/daggerverse/controller-gen"]
 	path = github.com/cloudnative-pg/daggerverse/controller-gen
 	url = https://github.com/cloudnative-pg/daggerverse
+[submodule "github.com/cloudnative-pg/daggerverse/commitlint"]
+	path = github.com/cloudnative-pg/daggerverse/commitlint
+	url = https://github.com/cloudnative-pg/daggerverse

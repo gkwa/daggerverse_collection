@@ -736,3 +736,6 @@
 [submodule "github.com/sevein/dagger-cache-volume-visibility-test"]
 	path = github.com/sevein/dagger-cache-volume-visibility-test
 	url = https://github.com/sevein/dagger-cache-volume-visibility-test
+[submodule "github.com/helderco/dagger/sdk/php"]
+	path = github.com/helderco/dagger/sdk/php
+	url = https://github.com/helderco/dagger

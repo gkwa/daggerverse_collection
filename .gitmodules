@@ -799,3 +799,6 @@
 [submodule "github.com/fcanovai/daggerverse/controller-gen"]
 	path = github.com/fcanovai/daggerverse/controller-gen
 	url = https://github.com/fcanovai/daggerverse
+[submodule "github.com/fluent-ci-templates/base-pipeline"]
+	path = github.com/fluent-ci-templates/base-pipeline
+	url = https://github.com/fluent-ci-templates/base-pipeline

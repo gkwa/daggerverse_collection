@@ -748,3 +748,6 @@
 [submodule "github.com/cubzh/cubzh"]
 	path = github.com/cubzh/cubzh
 	url = https://github.com/cubzh/cubzh
+[submodule "github.com/jedevc/dagger/sdk/php"]
+	path = github.com/jedevc/dagger/sdk/php
+	url = https://github.com/jedevc/dagger

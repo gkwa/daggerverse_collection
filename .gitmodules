@@ -820,3 +820,6 @@
 [submodule "github.com/charjr/dagger-modules/test-php-doc"]
 	path = github.com/charjr/dagger-modules/test-php-doc
 	url = https://github.com/charjr/dagger-modules
+[submodule "github.com/wingyplus/dagger/sdk/elixir"]
+	path = github.com/wingyplus/dagger/sdk/elixir
+	url = https://github.com/wingyplus/dagger

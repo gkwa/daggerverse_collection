@@ -994,3 +994,6 @@
 [submodule "github.com/typedef42/daggerverse/qovery"]
 	path = github.com/typedef42/daggerverse/qovery
 	url = https://github.com/typedef42/daggerverse
+[submodule "github.com/replicatedhq/daggerverse/onepassword"]
+	path = github.com/replicatedhq/daggerverse/onepassword
+	url = https://github.com/replicatedhq/daggerverse

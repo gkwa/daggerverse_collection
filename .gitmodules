@@ -694,3 +694,6 @@
 [submodule "github.com/shykes/dagger/ci/std/dirdiff"]
 	path = github.com/shykes/dagger/ci/std/dirdiff
 	url = https://github.com/shykes/dagger
+[submodule "github.com/dagger/dagger/linters/markdown"]
+	path = github.com/dagger/dagger/linters/markdown
+	url = https://github.com/dagger/dagger

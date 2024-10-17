@@ -952,3 +952,6 @@
 [submodule "github.com/TomChv/dagger/modules/graphql"]
 	path = github.com/TomChv/dagger/modules/graphql
 	url = https://github.com/TomChv/dagger
+[submodule "github.com/TomChv/dagger/modules/alpine"]
+	path = github.com/TomChv/dagger/modules/alpine
+	url = https://github.com/TomChv/dagger

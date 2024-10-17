@@ -928,3 +928,6 @@
 [submodule "github.com/kpenfound/dagger-modules/mdk"]
 	path = github.com/kpenfound/dagger-modules/mdk
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/TomChv/magicompose"]
+	path = github.com/TomChv/magicompose
+	url = https://github.com/TomChv/magicompose

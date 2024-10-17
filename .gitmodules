@@ -682,3 +682,6 @@
 [submodule "github.com/chainloop-dev/integration-demo/chainloop-demo/dagger"]
 	path = github.com/chainloop-dev/integration-demo/chainloop-demo/dagger
 	url = https://github.com/chainloop-dev/integration-demo
+[submodule "github.com/shykes/daggerverse/dagger"]
+	path = github.com/shykes/daggerverse/dagger
+	url = https://github.com/shykes/daggerverse

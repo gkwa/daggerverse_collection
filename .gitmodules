@@ -718,3 +718,6 @@
 [submodule "github.com/franela/pocketci/module"]
 	path = github.com/franela/pocketci/module
 	url = https://github.com/franela/pocketci
+[submodule "github.com/bradfordwagner/dagger-modules/ansible"]
+	path = github.com/bradfordwagner/dagger-modules/ansible
+	url = https://github.com/bradfordwagner/dagger-modules

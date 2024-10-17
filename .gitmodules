@@ -772,3 +772,6 @@
 [submodule "github.com/dagger/dagger/modules/compatcheck"]
 	path = github.com/dagger/dagger/modules/compatcheck
 	url = https://github.com/dagger/dagger
+[submodule "github.com/Mehul-Kumar-27/harbor-satellite"]
+	path = github.com/Mehul-Kumar-27/harbor-satellite
+	url = https://github.com/Mehul-Kumar-27/harbor-satellite

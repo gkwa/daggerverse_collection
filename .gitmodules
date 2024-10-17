@@ -829,3 +829,6 @@
 [submodule "github.com/fcanovai/daggerverse/uncommitted"]
 	path = github.com/fcanovai/daggerverse/uncommitted
 	url = https://github.com/fcanovai/daggerverse
+[submodule "github.com/dagger/dagger/release"]
+	path = github.com/dagger/dagger/release
+	url = https://github.com/dagger/dagger

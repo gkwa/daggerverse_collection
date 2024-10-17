@@ -1021,3 +1021,6 @@
 [submodule "github.com/mxdev88/daggerverse/pre-commit"]
 	path = github.com/mxdev88/daggerverse/pre-commit
 	url = https://github.com/mxdev88/daggerverse
+[submodule "github.com/mikaelelkiaer/daggerverse"]
+	path = github.com/mikaelelkiaer/daggerverse
+	url = https://github.com/mikaelelkiaer/daggerverse

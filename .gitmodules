@@ -883,3 +883,6 @@
 [submodule "github.com/dagger/dagger-test-modules/py"]
 	path = github.com/dagger/dagger-test-modules/py
 	url = https://github.com/dagger/dagger-test-modules
+[submodule "github.com/dagger/dagger-test-modules/subdir/dep2"]
+	path = github.com/dagger/dagger-test-modules/subdir/dep2
+	url = https://github.com/dagger/dagger-test-modules

@@ -703,3 +703,6 @@
 [submodule "github.com/prometheus/client_golang"]
 	path = github.com/prometheus/client_golang
 	url = https://github.com/prometheus/client_golang
+[submodule "github.com/marcosnils/levlaz-daggerverse/docusaurus"]
+	path = github.com/marcosnils/levlaz-daggerverse/docusaurus
+	url = https://github.com/marcosnils/levlaz-daggerverse

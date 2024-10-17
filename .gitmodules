@@ -664,3 +664,6 @@
 [submodule "github.com/Prashant-Bhapkar/demo"]
 	path = github.com/Prashant-Bhapkar/demo
 	url = https://github.com/Prashant-Bhapkar/demo
+[submodule "github.com/aiseei/hf-gguf-to-ollama"]
+	path = github.com/aiseei/hf-gguf-to-ollama
+	url = https://github.com/aiseei/hf-gguf-to-ollama

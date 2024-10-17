@@ -1084,3 +1084,6 @@
 [submodule "github.com/levlaz/daggerverse/miniflux"]
 	path = github.com/levlaz/daggerverse/miniflux
 	url = https://github.com/levlaz/daggerverse
+[submodule "github.com/dagger/dagger-php-sdk"]
+	path = github.com/dagger/dagger-php-sdk
+	url = https://github.com/dagger/dagger-php-sdk

@@ -640,3 +640,6 @@
 [submodule "github.com/shykes/daggerverse/termcast"]
 	path = github.com/shykes/daggerverse/termcast
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/denhamparry/daggerverse/bincapz"]
+	path = github.com/denhamparry/daggerverse/bincapz
+	url = https://github.com/denhamparry/daggerverse

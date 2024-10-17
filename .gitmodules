@@ -808,3 +808,6 @@
 [submodule "github.com/dagger/dagger/docs"]
 	path = github.com/dagger/dagger/docs
 	url = https://github.com/dagger/dagger
+[submodule "github.com/dagger/dagger/cmd/dagger"]
+	path = github.com/dagger/dagger/cmd/dagger
+	url = https://github.com/dagger/dagger

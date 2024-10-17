@@ -1039,3 +1039,6 @@
 [submodule "github.com/dagger/dagger/sdk/python/dev"]
 	path = github.com/dagger/dagger/sdk/python/dev
 	url = https://github.com/dagger/dagger
+[submodule "github.com/dagger/dagger/modules/ps-analyzer"]
+	path = github.com/dagger/dagger/modules/ps-analyzer
+	url = https://github.com/dagger/dagger

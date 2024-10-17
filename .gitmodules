@@ -1069,3 +1069,6 @@
 [submodule "github.com/rajatjindal/dagger-modules/proxy"]
 	path = github.com/rajatjindal/dagger-modules/proxy
 	url = https://github.com/rajatjindal/dagger-modules
+[submodule "github.com/Infisical/infisical-dagger"]
+	path = github.com/Infisical/infisical-dagger
+	url = https://github.com/Infisical/infisical-dagger

@@ -1000,3 +1000,6 @@
 [submodule "github.com/digiogithub/dagger-deploy-tools/android"]
 	path = github.com/digiogithub/dagger-deploy-tools/android
 	url = https://github.com/digiogithub/dagger-deploy-tools
+[submodule "github.com/matipan/daggerverse/kubectl"]
+	path = github.com/matipan/daggerverse/kubectl
+	url = https://github.com/matipan/daggerverse

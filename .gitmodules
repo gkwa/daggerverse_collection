@@ -1048,3 +1048,6 @@
 [submodule "github.com/valorl/daggerverse/git-files-changed"]
 	path = github.com/valorl/daggerverse/git-files-changed
 	url = https://github.com/valorl/daggerverse
+[submodule "github.com/mjb141/daggerverse/kics"]
+	path = github.com/mjb141/daggerverse/kics
+	url = https://github.com/mjb141/daggerverse

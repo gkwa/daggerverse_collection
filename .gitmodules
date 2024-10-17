@@ -721,3 +721,6 @@
 [submodule "github.com/bradfordwagner/dagger-modules/ansible"]
 	path = github.com/bradfordwagner/dagger-modules/ansible
 	url = https://github.com/bradfordwagner/dagger-modules
+[submodule "github.com/dagger/dagger/dev"]
+	path = github.com/dagger/dagger/dev
+	url = https://github.com/dagger/dagger

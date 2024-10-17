@@ -607,3 +607,6 @@
 [submodule "github.com/SpokaneTech/SpokaneTech_Py"]
 	path = github.com/SpokaneTech/SpokaneTech_Py
 	url = https://github.com/SpokaneTech/SpokaneTech_Py
+[submodule "github.com/camptocamp/daggerverse/busybox"]
+	path = github.com/camptocamp/daggerverse/busybox
+	url = https://github.com/camptocamp/daggerverse

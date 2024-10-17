@@ -1012,3 +1012,6 @@
 [submodule "github.com/replicatedhq/daggerverse/replicated"]
 	path = github.com/replicatedhq/daggerverse/replicated
 	url = https://github.com/replicatedhq/daggerverse
+[submodule "github.com/levlaz/medplum"]
+	path = github.com/levlaz/medplum
+	url = https://github.com/levlaz/medplum

@@ -1009,3 +1009,6 @@
 [submodule "github.com/puzzle/dagger-techlab/mod"]
 	path = github.com/puzzle/dagger-techlab/mod
 	url = https://github.com/puzzle/dagger-techlab
+[submodule "github.com/replicatedhq/daggerverse/replicated"]
+	path = github.com/replicatedhq/daggerverse/replicated
+	url = https://github.com/replicatedhq/daggerverse

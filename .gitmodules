@@ -625,3 +625,6 @@
 [submodule "github.com/fluent-ci-templates/railway-pipeline"]
 	path = github.com/fluent-ci-templates/railway-pipeline
 	url = https://github.com/fluent-ci-templates/railway-pipeline
+[submodule "github.com/helderco/daggerverse/python-codegen"]
+	path = github.com/helderco/daggerverse/python-codegen
+	url = https://github.com/helderco/daggerverse

@@ -1075,3 +1075,6 @@
 [submodule "github.com/levlaz/daggerverse/docusaurus"]
 	path = github.com/levlaz/daggerverse/docusaurus
 	url = https://github.com/levlaz/daggerverse
+[submodule "github.com/staticaland/dagger-cog"]
+	path = github.com/staticaland/dagger-cog
+	url = https://github.com/staticaland/dagger-cog

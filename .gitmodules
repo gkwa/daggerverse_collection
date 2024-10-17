@@ -628,3 +628,6 @@
 [submodule "github.com/helderco/daggerverse/python-codegen"]
 	path = github.com/helderco/daggerverse/python-codegen
 	url = https://github.com/helderco/daggerverse
+[submodule "github.com/shykes/daggerverse/dsh"]
+	path = github.com/shykes/daggerverse/dsh
+	url = https://github.com/shykes/daggerverse

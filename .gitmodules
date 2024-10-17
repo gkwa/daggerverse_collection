@@ -619,3 +619,6 @@
 [submodule "github.com/tsirysndr/daggerverse/buildx"]
 	path = github.com/tsirysndr/daggerverse/buildx
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/nixpacks"]
+	path = github.com/tsirysndr/daggerverse/nixpacks
+	url = https://github.com/tsirysndr/daggerverse

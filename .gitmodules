@@ -901,3 +901,6 @@
 [submodule "github.com/cloudnative-pg/daggerverse/commitlint"]
 	path = github.com/cloudnative-pg/daggerverse/commitlint
 	url = https://github.com/cloudnative-pg/daggerverse
+[submodule "github.com/cloudnative-pg/daggerverse/protoc-gen-doc"]
+	path = github.com/cloudnative-pg/daggerverse/protoc-gen-doc
+	url = https://github.com/cloudnative-pg/daggerverse

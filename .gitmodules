@@ -832,3 +832,6 @@
 [submodule "github.com/dagger/dagger/release"]
 	path = github.com/dagger/dagger/release
 	url = https://github.com/dagger/dagger
+[submodule "github.com/dagger/dagger/engine/runc"]
+	path = github.com/dagger/dagger/engine/runc
+	url = https://github.com/dagger/dagger

@@ -985,3 +985,6 @@
 [submodule "github.com/mykiwi/daggerverse/php-symfony-security-checker"]
 	path = github.com/mykiwi/daggerverse/php-symfony-security-checker
 	url = https://github.com/mykiwi/daggerverse
+[submodule "github.com/levlaz/daggerverse/evolution"]
+	path = github.com/levlaz/daggerverse/evolution
+	url = https://github.com/levlaz/daggerverse

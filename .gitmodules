@@ -691,3 +691,6 @@
 [submodule "github.com/shykes/dagger/ci/std/go"]
 	path = github.com/shykes/dagger/ci/std/go
 	url = https://github.com/shykes/dagger
+[submodule "github.com/shykes/dagger/ci/std/dirdiff"]
+	path = github.com/shykes/dagger/ci/std/dirdiff
+	url = https://github.com/shykes/dagger

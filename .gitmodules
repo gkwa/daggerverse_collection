@@ -874,3 +874,6 @@
 [submodule "github.com/dagger/dagger-test-modules/various-source-values/subdir"]
 	path = github.com/dagger/dagger-test-modules/various-source-values/subdir
 	url = https://github.com/dagger/dagger-test-modules
+[submodule "github.com/dagger/dagger-test-modules/cool-sdk"]
+	path = github.com/dagger/dagger-test-modules/cool-sdk
+	url = https://github.com/dagger/dagger-test-modules

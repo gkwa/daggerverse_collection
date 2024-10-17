@@ -1078,3 +1078,6 @@
 [submodule "github.com/staticaland/dagger-cog"]
 	path = github.com/staticaland/dagger-cog
 	url = https://github.com/staticaland/dagger-cog
+[submodule "github.com/RawkodeAcademy/RawkodeAcademy/daggerverse/sops"]
+	path = github.com/RawkodeAcademy/RawkodeAcademy/daggerverse/sops
+	url = https://github.com/RawkodeAcademy/RawkodeAcademy

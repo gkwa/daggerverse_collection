@@ -709,3 +709,6 @@
 [submodule "github.com/carnage/dagger/sdk/php/runtime"]
 	path = github.com/carnage/dagger/sdk/php/runtime
 	url = https://github.com/carnage/dagger
+[submodule "github.com/aweris/demo-devconf-cz-2024"]
+	path = github.com/aweris/demo-devconf-cz-2024
+	url = https://github.com/aweris/demo-devconf-cz-2024

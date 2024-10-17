@@ -940,3 +940,6 @@
 [submodule "github.com/TomChv/dagger/modules/ps-analyzer"]
 	path = github.com/TomChv/dagger/modules/ps-analyzer
 	url = https://github.com/TomChv/dagger
+[submodule "github.com/TomChv/dagger/modules/wolfi"]
+	path = github.com/TomChv/dagger/modules/wolfi
+	url = https://github.com/TomChv/dagger

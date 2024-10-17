@@ -673,3 +673,6 @@
 [submodule "github.com/shykes/daggerverse/daggy"]
 	path = github.com/shykes/daggerverse/daggy
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/kpenfound/greetings-api"]
+	path = github.com/kpenfound/greetings-api
+	url = https://github.com/kpenfound/greetings-api

@@ -655,3 +655,6 @@
 [submodule "github.com/shykes/git/dev"]
 	path = github.com/shykes/git/dev
 	url = https://github.com/shykes/git
+[submodule "github.com/camptocamp/setup-dagger"]
+	path = github.com/camptocamp/setup-dagger
+	url = https://github.com/camptocamp/setup-dagger

@@ -712,3 +712,6 @@
 [submodule "github.com/aweris/demo-devconf-cz-2024"]
 	path = github.com/aweris/demo-devconf-cz-2024
 	url = https://github.com/aweris/demo-devconf-cz-2024
+[submodule "github.com/EmmS21/DebtRepayment"]
+	path = github.com/EmmS21/DebtRepayment
+	url = https://github.com/EmmS21/DebtRepayment

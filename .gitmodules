@@ -766,3 +766,6 @@
 [submodule "github.com/Smana/daggerverse/kubeconform"]
 	path = github.com/Smana/daggerverse/kubeconform
 	url = https://github.com/Smana/daggerverse
+[submodule "github.com/dagger/dagger/.github"]
+	path = github.com/dagger/dagger/.github
+	url = https://github.com/dagger/dagger

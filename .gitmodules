@@ -859,3 +859,6 @@
 [submodule "github.com/vito/daggerverse/bass"]
 	path = github.com/vito/daggerverse/bass
 	url = https://github.com/vito/daggerverse
+[submodule "github.com/jedevc/dagger-test-modules/versioned"]
+	path = github.com/jedevc/dagger-test-modules/versioned
+	url = https://github.com/jedevc/dagger-test-modules

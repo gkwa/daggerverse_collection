@@ -925,3 +925,6 @@
 [submodule "github.com/kpenfound/dagger-modules/secrets-provider"]
 	path = github.com/kpenfound/dagger-modules/secrets-provider
 	url = https://github.com/kpenfound/dagger-modules
+[submodule "github.com/kpenfound/dagger-modules/mdk"]
+	path = github.com/kpenfound/dagger-modules/mdk
+	url = https://github.com/kpenfound/dagger-modules

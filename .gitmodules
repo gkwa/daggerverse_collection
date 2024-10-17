@@ -622,3 +622,6 @@
 [submodule "github.com/tsirysndr/daggerverse/nixpacks"]
 	path = github.com/tsirysndr/daggerverse/nixpacks
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/fluent-ci-templates/railway-pipeline"]
+	path = github.com/fluent-ci-templates/railway-pipeline
+	url = https://github.com/fluent-ci-templates/railway-pipeline

@@ -835,3 +835,6 @@
 [submodule "github.com/dagger/dagger/engine/runc"]
 	path = github.com/dagger/dagger/engine/runc
 	url = https://github.com/dagger/dagger
+[submodule "github.com/fcanovai/daggerverse/protolint"]
+	path = github.com/fcanovai/daggerverse/protolint
+	url = https://github.com/fcanovai/daggerverse

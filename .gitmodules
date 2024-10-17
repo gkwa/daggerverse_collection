@@ -775,3 +775,6 @@
 [submodule "github.com/Mehul-Kumar-27/harbor-satellite"]
 	path = github.com/Mehul-Kumar-27/harbor-satellite
 	url = https://github.com/Mehul-Kumar-27/harbor-satellite
+[submodule "github.com/Smana/daggerverse/pre-commit-tf"]
+	path = github.com/Smana/daggerverse/pre-commit-tf
+	url = https://github.com/Smana/daggerverse

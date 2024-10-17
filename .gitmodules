@@ -700,3 +700,6 @@
 [submodule "github.com/marcosnils/client_golang"]
 	path = github.com/marcosnils/client_golang
 	url = https://github.com/marcosnils/client_golang
+[submodule "github.com/prometheus/client_golang"]
+	path = github.com/prometheus/client_golang
+	url = https://github.com/prometheus/client_golang

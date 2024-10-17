@@ -1027,3 +1027,6 @@
 [submodule "github.com/dictybase-docker/dagger-of-dcr/gitter"]
 	path = github.com/dictybase-docker/dagger-of-dcr/gitter
 	url = https://github.com/dictybase-docker/dagger-of-dcr
+[submodule "github.com/dagger/dagger/modules/graphql"]
+	path = github.com/dagger/dagger/modules/graphql
+	url = https://github.com/dagger/dagger

@@ -793,3 +793,6 @@
 [submodule "github.com/valorl/daggerverse/git-affected"]
 	path = github.com/valorl/daggerverse/git-affected
 	url = https://github.com/valorl/daggerverse
+[submodule "github.com/RawkodeAcademy/RawkodeAcademy/daggerverse/nodejs"]
+	path = github.com/RawkodeAcademy/RawkodeAcademy/daggerverse/nodejs
+	url = https://github.com/RawkodeAcademy/RawkodeAcademy

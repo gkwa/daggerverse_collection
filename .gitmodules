@@ -979,3 +979,6 @@
 [submodule "github.com/levlaz/magicinit"]
 	path = github.com/levlaz/magicinit
 	url = https://github.com/levlaz/magicinit
+[submodule "github.com/purpleclay/daggerverse/helm-oci"]
+	path = github.com/purpleclay/daggerverse/helm-oci
+	url = https://github.com/purpleclay/daggerverse

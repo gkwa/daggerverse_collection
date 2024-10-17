@@ -739,3 +739,6 @@
 [submodule "github.com/helderco/dagger/sdk/php"]
 	path = github.com/helderco/dagger/sdk/php
 	url = https://github.com/helderco/dagger
+[submodule "github.com/helderco/dagger/sdk/elixir"]
+	path = github.com/helderco/dagger/sdk/elixir
+	url = https://github.com/helderco/dagger

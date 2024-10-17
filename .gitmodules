@@ -976,3 +976,6 @@
 [submodule "github.com/mykiwi/daggerverse/php-composer-security-checker"]
 	path = github.com/mykiwi/daggerverse/php-composer-security-checker
 	url = https://github.com/mykiwi/daggerverse
+[submodule "github.com/levlaz/magicinit"]
+	path = github.com/levlaz/magicinit
+	url = https://github.com/levlaz/magicinit

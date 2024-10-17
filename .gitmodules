@@ -1099,3 +1099,6 @@
 [submodule "github.com/jpadams/GeitRavi"]
 	path = github.com/jpadams/GeitRavi
 	url = https://github.com/jpadams/GeitRavi
+[submodule "github.com/kubeshop/tracetest"]
+	path = github.com/kubeshop/tracetest
+	url = https://github.com/kubeshop/tracetest

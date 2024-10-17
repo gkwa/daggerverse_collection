@@ -637,3 +637,6 @@
 [submodule "github.com/tsirysndr/daggerverse/flakestry"]
 	path = github.com/tsirysndr/daggerverse/flakestry
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/shykes/daggerverse/termcast"]
+	path = github.com/shykes/daggerverse/termcast
+	url = https://github.com/shykes/daggerverse

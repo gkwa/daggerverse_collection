@@ -1102,3 +1102,6 @@
 [submodule "github.com/kubeshop/tracetest"]
 	path = github.com/kubeshop/tracetest
 	url = https://github.com/kubeshop/tracetest
+[submodule "github.com/dictybase-docker/dagger-of-dcr/golang"]
+	path = github.com/dictybase-docker/dagger-of-dcr/golang
+	url = https://github.com/dictybase-docker/dagger-of-dcr

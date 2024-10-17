@@ -1072,3 +1072,6 @@
 [submodule "github.com/Infisical/infisical-dagger"]
 	path = github.com/Infisical/infisical-dagger
 	url = https://github.com/Infisical/infisical-dagger
+[submodule "github.com/levlaz/daggerverse/docusaurus"]
+	path = github.com/levlaz/daggerverse/docusaurus
+	url = https://github.com/levlaz/daggerverse

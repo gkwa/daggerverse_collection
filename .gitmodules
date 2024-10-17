@@ -667,3 +667,6 @@
 [submodule "github.com/aiseei/hf-gguf-to-ollama"]
 	path = github.com/aiseei/hf-gguf-to-ollama
 	url = https://github.com/aiseei/hf-gguf-to-ollama
+[submodule "github.com/adrienbrault/hf-gguf-to-ollama"]
+	path = github.com/adrienbrault/hf-gguf-to-ollama
+	url = https://github.com/adrienbrault/hf-gguf-to-ollama

@@ -742,3 +742,6 @@
 [submodule "github.com/helderco/dagger/sdk/elixir"]
 	path = github.com/helderco/dagger/sdk/elixir
 	url = https://github.com/helderco/dagger
+[submodule "github.com/fluent-ci-templates/buck-pipeline"]
+	path = github.com/fluent-ci-templates/buck-pipeline
+	url = https://github.com/fluent-ci-templates/buck-pipeline

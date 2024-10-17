@@ -790,3 +790,6 @@
 [submodule "github.com/NunoFrRibeiro/daggerverse/fly"]
 	path = github.com/NunoFrRibeiro/daggerverse/fly
 	url = https://github.com/NunoFrRibeiro/daggerverse
+[submodule "github.com/valorl/daggerverse/git-affected"]
+	path = github.com/valorl/daggerverse/git-affected
+	url = https://github.com/valorl/daggerverse

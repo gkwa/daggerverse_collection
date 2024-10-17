@@ -967,3 +967,6 @@
 [submodule "github.com/TomChv/dagger/sdk/python/dev"]
 	path = github.com/TomChv/dagger/sdk/python/dev
 	url = https://github.com/TomChv/dagger
+[submodule "github.com/franela/pocketci/modules/gha"]
+	path = github.com/franela/pocketci/modules/gha
+	url = https://github.com/franela/pocketci

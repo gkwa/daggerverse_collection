@@ -661,3 +661,6 @@
 [submodule "github.com/EmmS21/daggerverse/createSvelteTests"]
 	path = github.com/EmmS21/daggerverse/createSvelteTests
 	url = https://github.com/EmmS21/daggerverse
+[submodule "github.com/Prashant-Bhapkar/demo"]
+	path = github.com/Prashant-Bhapkar/demo
+	url = https://github.com/Prashant-Bhapkar/demo

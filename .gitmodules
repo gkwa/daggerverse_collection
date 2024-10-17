@@ -889,3 +889,6 @@
 [submodule "github.com/dagger/dagger-test-modules/top-level"]
 	path = github.com/dagger/dagger-test-modules/top-level
 	url = https://github.com/dagger/dagger-test-modules
+[submodule "github.com/dagger/dagger-test-modules/various-source-values/samedir"]
+	path = github.com/dagger/dagger-test-modules/various-source-values/samedir
+	url = https://github.com/dagger/dagger-test-modules

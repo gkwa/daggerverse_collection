@@ -610,3 +610,6 @@
 [submodule "github.com/camptocamp/daggerverse/busybox"]
 	path = github.com/camptocamp/daggerverse/busybox
 	url = https://github.com/camptocamp/daggerverse
+[submodule "github.com/fluent-ci-templates/microcks-pipeline"]
+	path = github.com/fluent-ci-templates/microcks-pipeline
+	url = https://github.com/fluent-ci-templates/microcks-pipeline

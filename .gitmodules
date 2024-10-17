@@ -1045,3 +1045,6 @@
 [submodule "github.com/dagger/dagger/sdk/php/dev"]
 	path = github.com/dagger/dagger/sdk/php/dev
 	url = https://github.com/dagger/dagger
+[submodule "github.com/valorl/daggerverse/git-files-changed"]
+	path = github.com/valorl/daggerverse/git-files-changed
+	url = https://github.com/valorl/daggerverse

@@ -697,3 +697,6 @@
 [submodule "github.com/dagger/dagger/linters/markdown"]
 	path = github.com/dagger/dagger/linters/markdown
 	url = https://github.com/dagger/dagger
+[submodule "github.com/marcosnils/client_golang"]
+	path = github.com/marcosnils/client_golang
+	url = https://github.com/marcosnils/client_golang

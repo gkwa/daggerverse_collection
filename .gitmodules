@@ -991,3 +991,6 @@
 [submodule "github.com/dciangot/daggerverse/commanders"]
 	path = github.com/dciangot/daggerverse/commanders
 	url = https://github.com/dciangot/daggerverse
+[submodule "github.com/typedef42/daggerverse/qovery"]
+	path = github.com/typedef42/daggerverse/qovery
+	url = https://github.com/typedef42/daggerverse

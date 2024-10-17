@@ -745,3 +745,6 @@
 [submodule "github.com/fluent-ci-templates/buck-pipeline"]
 	path = github.com/fluent-ci-templates/buck-pipeline
 	url = https://github.com/fluent-ci-templates/buck-pipeline
+[submodule "github.com/cubzh/cubzh"]
+	path = github.com/cubzh/cubzh
+	url = https://github.com/cubzh/cubzh

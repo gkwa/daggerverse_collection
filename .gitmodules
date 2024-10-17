@@ -1024,3 +1024,6 @@
 [submodule "github.com/mikaelelkiaer/daggerverse"]
 	path = github.com/mikaelelkiaer/daggerverse
 	url = https://github.com/mikaelelkiaer/daggerverse
+[submodule "github.com/dictybase-docker/dagger-of-dcr/gitter"]
+	path = github.com/dictybase-docker/dagger-of-dcr/gitter
+	url = https://github.com/dictybase-docker/dagger-of-dcr

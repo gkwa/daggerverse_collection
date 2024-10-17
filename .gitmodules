@@ -778,3 +778,6 @@
 [submodule "github.com/Smana/daggerverse/pre-commit-tf"]
 	path = github.com/Smana/daggerverse/pre-commit-tf
 	url = https://github.com/Smana/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/megalinter"]
+	path = github.com/tsirysndr/daggerverse/megalinter
+	url = https://github.com/tsirysndr/daggerverse

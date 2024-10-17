@@ -1036,3 +1036,6 @@
 [submodule "github.com/dagger/dagger/modules/shellcheck"]
 	path = github.com/dagger/dagger/modules/shellcheck
 	url = https://github.com/dagger/dagger
+[submodule "github.com/dagger/dagger/sdk/python/dev"]
+	path = github.com/dagger/dagger/sdk/python/dev
+	url = https://github.com/dagger/dagger

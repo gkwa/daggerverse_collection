@@ -757,3 +757,6 @@
 [submodule "github.com/NunoFrRibeiro/personal-blog"]
 	path = github.com/NunoFrRibeiro/personal-blog
 	url = https://github.com/NunoFrRibeiro/personal-blog
+[submodule "github.com/fluent-ci-templates/dotnet-pipeline"]
+	path = github.com/fluent-ci-templates/dotnet-pipeline
+	url = https://github.com/fluent-ci-templates/dotnet-pipeline

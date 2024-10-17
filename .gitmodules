@@ -826,3 +826,6 @@
 [submodule "github.com/openmeterio/openmeter"]
 	path = github.com/openmeterio/openmeter
 	url = https://github.com/openmeterio/openmeter
+[submodule "github.com/fcanovai/daggerverse/uncommitted"]
+	path = github.com/fcanovai/daggerverse/uncommitted
+	url = https://github.com/fcanovai/daggerverse

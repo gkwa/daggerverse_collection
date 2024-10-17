@@ -1054,3 +1054,6 @@
 [submodule "github.com/mjb141/daggerverse/echo"]
 	path = github.com/mjb141/daggerverse/echo
 	url = https://github.com/mjb141/daggerverse
+[submodule "github.com/svallebro/dagger-tools"]
+	path = github.com/svallebro/dagger-tools
+	url = https://github.com/svallebro/dagger-tools

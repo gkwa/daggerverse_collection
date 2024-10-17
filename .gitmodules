@@ -922,3 +922,6 @@
 [submodule "github.com/alanmosely/daggerverse/esp-idf"]
 	path = github.com/alanmosely/daggerverse/esp-idf
 	url = https://github.com/alanmosely/daggerverse
+[submodule "github.com/kpenfound/dagger-modules/secrets-provider"]
+	path = github.com/kpenfound/dagger-modules/secrets-provider
+	url = https://github.com/kpenfound/dagger-modules

@@ -916,3 +916,6 @@
 [submodule "github.com/cloudnative-pg/daggerverse/uncommitted"]
 	path = github.com/cloudnative-pg/daggerverse/uncommitted
 	url = https://github.com/cloudnative-pg/daggerverse
+[submodule "github.com/tanviranadive/dagger-module-tr"]
+	path = github.com/tanviranadive/dagger-module-tr
+	url = https://github.com/tanviranadive/dagger-module-tr

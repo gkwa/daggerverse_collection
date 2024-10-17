@@ -706,3 +706,6 @@
 [submodule "github.com/marcosnils/levlaz-daggerverse/docusaurus"]
 	path = github.com/marcosnils/levlaz-daggerverse/docusaurus
 	url = https://github.com/marcosnils/levlaz-daggerverse
+[submodule "github.com/carnage/dagger/sdk/php/runtime"]
+	path = github.com/carnage/dagger/sdk/php/runtime
+	url = https://github.com/carnage/dagger

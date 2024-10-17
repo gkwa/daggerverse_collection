@@ -634,3 +634,6 @@
 [submodule "github.com/tsirysndr/daggerverse/kubeconform"]
 	path = github.com/tsirysndr/daggerverse/kubeconform
 	url = https://github.com/tsirysndr/daggerverse
+[submodule "github.com/tsirysndr/daggerverse/flakestry"]
+	path = github.com/tsirysndr/daggerverse/flakestry
+	url = https://github.com/tsirysndr/daggerverse

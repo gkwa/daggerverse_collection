@@ -601,3 +601,6 @@
 [submodule "github.com/samalba/aluzzardi-daggerverse/github-comment"]
 	path = github.com/samalba/aluzzardi-daggerverse/github-comment
 	url = https://github.com/samalba/aluzzardi-daggerverse
+[submodule "github.com/shykes/chainloop"]
+	path = github.com/shykes/chainloop
+	url = https://github.com/shykes/chainloop

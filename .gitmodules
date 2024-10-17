@@ -838,3 +838,6 @@
 [submodule "github.com/fcanovai/daggerverse/protolint"]
 	path = github.com/fcanovai/daggerverse/protolint
 	url = https://github.com/fcanovai/daggerverse
+[submodule "github.com/fcanovai/daggerverse/protoc-gen-doc"]
+	path = github.com/fcanovai/daggerverse/protoc-gen-doc
+	url = https://github.com/fcanovai/daggerverse

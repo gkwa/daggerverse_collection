@@ -1090,3 +1090,6 @@
 [submodule "github.com/levlaz/daggerverse/plausible"]
 	path = github.com/levlaz/daggerverse/plausible
 	url = https://github.com/levlaz/daggerverse
+[submodule "github.com/mxdev88/daggerverse/psr"]
+	path = github.com/mxdev88/daggerverse/psr
+	url = https://github.com/mxdev88/daggerverse

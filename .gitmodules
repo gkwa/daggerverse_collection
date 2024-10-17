@@ -592,3 +592,6 @@
 [submodule "github.com/chainloop-dev/chainloop/extras/dagger"]
 	path = github.com/chainloop-dev/chainloop/extras/dagger
 	url = https://github.com/chainloop-dev/chainloop
+[submodule "github.com/vito/daggerverse/boomer"]
+	path = github.com/vito/daggerverse/boomer
+	url = https://github.com/vito/daggerverse

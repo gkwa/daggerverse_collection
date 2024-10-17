@@ -670,3 +670,6 @@
 [submodule "github.com/adrienbrault/hf-gguf-to-ollama"]
 	path = github.com/adrienbrault/hf-gguf-to-ollama
 	url = https://github.com/adrienbrault/hf-gguf-to-ollama
+[submodule "github.com/shykes/daggerverse/daggy"]
+	path = github.com/shykes/daggerverse/daggy
+	url = https://github.com/shykes/daggerverse

@@ -685,3 +685,6 @@
 [submodule "github.com/shykes/daggerverse/dagger"]
 	path = github.com/shykes/daggerverse/dagger
 	url = https://github.com/shykes/daggerverse
+[submodule "github.com/shykes/dagger/ci/std/graphql"]
+	path = github.com/shykes/dagger/ci/std/graphql
+	url = https://github.com/shykes/dagger

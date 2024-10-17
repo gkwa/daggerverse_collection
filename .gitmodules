@@ -1096,3 +1096,6 @@
 [submodule "github.com/purpleclay/daggerverse/nsv"]
 	path = github.com/purpleclay/daggerverse/nsv
 	url = https://github.com/purpleclay/daggerverse
+[submodule "github.com/jpadams/GeitRavi"]
+	path = github.com/jpadams/GeitRavi
+	url = https://github.com/jpadams/GeitRavi

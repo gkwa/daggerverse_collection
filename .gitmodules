@@ -964,3 +964,6 @@
 [submodule "github.com/TomChv/dagger/sdk/php/dev"]
 	path = github.com/TomChv/dagger/sdk/php/dev
 	url = https://github.com/TomChv/dagger
+[submodule "github.com/TomChv/dagger/sdk/python/dev"]
+	path = github.com/TomChv/dagger/sdk/python/dev
+	url = https://github.com/TomChv/dagger

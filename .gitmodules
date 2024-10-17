@@ -787,3 +787,6 @@
 [submodule "github.com/dagger/dagger/cmd/codegen"]
 	path = github.com/dagger/dagger/cmd/codegen
 	url = https://github.com/dagger/dagger
+[submodule "github.com/NunoFrRibeiro/daggerverse/fly"]
+	path = github.com/NunoFrRibeiro/daggerverse/fly
+	url = https://github.com/NunoFrRibeiro/daggerverse

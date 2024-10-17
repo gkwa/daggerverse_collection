@@ -598,3 +598,6 @@
 [submodule "github.com/wingyplus/daggerverse/wttr"]
 	path = github.com/wingyplus/daggerverse/wttr
 	url = https://github.com/wingyplus/daggerverse
+[submodule "github.com/samalba/aluzzardi-daggerverse/github-comment"]
+	path = github.com/samalba/aluzzardi-daggerverse/github-comment
+	url = https://github.com/samalba/aluzzardi-daggerverse

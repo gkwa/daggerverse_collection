@@ -877,3 +877,6 @@
 [submodule "github.com/dagger/dagger-test-modules/cool-sdk"]
 	path = github.com/dagger/dagger-test-modules/cool-sdk
 	url = https://github.com/dagger/dagger-test-modules
+[submodule "github.com/dagger/dagger-test-modules/dep"]
+	path = github.com/dagger/dagger-test-modules/dep
+	url = https://github.com/dagger/dagger-test-modules

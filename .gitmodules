@@ -919,3 +919,6 @@
 [submodule "github.com/tanviranadive/dagger-module-tr"]
 	path = github.com/tanviranadive/dagger-module-tr
 	url = https://github.com/tanviranadive/dagger-module-tr
+[submodule "github.com/alanmosely/daggerverse/esp-idf"]
+	path = github.com/alanmosely/daggerverse/esp-idf
+	url = https://github.com/alanmosely/daggerverse

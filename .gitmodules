@@ -733,3 +733,6 @@
 [submodule "github.com/dagger/dagger/shellcheck"]
 	path = github.com/dagger/dagger/shellcheck
 	url = https://github.com/dagger/dagger
+[submodule "github.com/sevein/dagger-cache-volume-visibility-test"]
+	path = github.com/sevein/dagger-cache-volume-visibility-test
+	url = https://github.com/sevein/dagger-cache-volume-visibility-test

@@ -1093,3 +1093,6 @@
 [submodule "github.com/mxdev88/daggerverse/psr"]
 	path = github.com/mxdev88/daggerverse/psr
 	url = https://github.com/mxdev88/daggerverse
+[submodule "github.com/purpleclay/daggerverse/nsv"]
+	path = github.com/purpleclay/daggerverse/nsv
+	url = https://github.com/purpleclay/daggerverse

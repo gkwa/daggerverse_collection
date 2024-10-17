@@ -970,3 +970,6 @@
 [submodule "github.com/franela/pocketci/modules/gha"]
 	path = github.com/franela/pocketci/modules/gha
 	url = https://github.com/franela/pocketci
+[submodule "github.com/JFenstermacher/daggerverse/buf"]
+	path = github.com/JFenstermacher/daggerverse/buf
+	url = https://github.com/JFenstermacher/daggerverse

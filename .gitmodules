@@ -865,3 +865,6 @@
 [submodule "github.com/seungyeop-lee/daggerverse/private-git"]
 	path = github.com/seungyeop-lee/daggerverse/private-git
 	url = https://github.com/seungyeop-lee/daggerverse
+[submodule "github.com/seungyeop-lee/daggerverse/scp"]
+	path = github.com/seungyeop-lee/daggerverse/scp
+	url = https://github.com/seungyeop-lee/daggerverse

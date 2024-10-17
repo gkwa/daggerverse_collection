@@ -814,3 +814,6 @@
 [submodule "github.com/jpadams/infisical-dagger"]
 	path = github.com/jpadams/infisical-dagger
 	url = https://github.com/jpadams/infisical-dagger
+[submodule "github.com/depot/benchmark-openmeter/upstream"]
+	path = github.com/depot/benchmark-openmeter/upstream
+	url = https://github.com/depot/benchmark-openmeter
